@@ -8350,8 +8350,13 @@
     "type": "text"
   },
   {
-    "SourceText": "Type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate. Click here for more information:",
-    "text": "Taip \"Ya\" jika anda bersetuju dengan ini. Taip \"Keluar\" jika anda tidak mahu mengambil bahagian. Klik di sini untuk maklumat lanjut:",
+    "SourceText": "Type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate.",
+    "text": "Taip \"Ya\" jika anda bersetuju dengan ini. Taip \"Keluar\" jika anda tidak mahu mengambil bahagian.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Click here for more information:",
+    "text": "Klik di sini untuk maklumat lanjut:",
     "type": "text"
   },
   {
@@ -24080,5 +24085,38 @@
     "text": "keluar menu",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
-  } 
+  },
+  {
+    "SourceText": "Hi! We have an update for you. Please reply *START* to proceed. Thank you.",
+    "text": "Hai! Kami ada maklumat terkini untuk anda. Sila balas dengan *MULA* untuk teruskan. Terima kasih.",
+    "type": "text"
+  },
+   {
+    "SourceText": "We would love to hear how you are doing! Can we ask you a few quick questions about your relationship with your partner? Everything you say will be completely private. If you do not want to answer any questions, it is completely okay.",
+    "text": "Kami berminat untuk mengetahui khabar anda! Boleh kami tanyakan beberapa soalan ringkas tentang hubungan anda dengan pasangan anda? Semua yang anda nyatakan adalah rahsia. Jika anda tidak mahu menjawab sebarang soalan, ia adalah sama sekali tidak mengapa.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Too short",
+    "text": "Terlalu pendek",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Just right",
+    "text": "Sedang elok, atau",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Too long",
+    "text": "Terlalu panjang",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+   {
+    "SourceText": "That is okay!",
+    "text": "Tidak mengapa!",
+    "type": "text"
+  }
 ]
