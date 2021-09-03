@@ -13571,7 +13571,7 @@
   },
   {
     "SourceText": "Boosted (text, images, audio)",
-    "text": "Ditingkatkan (teks, gambar, audio)",
+    "text": "Pertengahan (teks, gambar, audio)",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -14135,7 +14135,7 @@
   },
   {
     "SourceText": "boosted",
-    "text": "ditingkatkan",
+    "text": "pertengahan",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
