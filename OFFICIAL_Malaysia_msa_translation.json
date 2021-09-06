@@ -14465,7 +14465,7 @@
   },
   {
     "SourceText": "Congratulations for finishing the ParentText programme @fields.user_name! ",
-    "text": "Tahniah kerana telah melengkapkan program ParentText@fields.user_name! ",
+    "text": "Tahniah kerana telah melengkapkan program ParentText @fields.user_name! ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -24118,5 +24118,208 @@
     "SourceText": "That is okay!",
     "text": "Tidak mengapa!",
     "type": "text"
-  }
-]
+  },
+    {
+      "SourceText": "Could you please tell me why you want to stop receiving these messages?",
+      "text": "Bolehkah anda beritahu kami mengapa anda tidak lagi mahu menerima pesanan-pesanan ini?",
+      "type": "text"
+    },
+    {
+      "SourceText": "Would you like to tell us a little bit more about your experience?",
+      "text": "Adakah anda ingin memberitahu kami dengan lebih lanjut tentang pengalaman anda?",
+      "type": "text"
+    },
+    {
+      "SourceText": "Would you like to tell me a little bit more about your experience?",
+      "text": "Adakah anda ingin memberitahu saya dengan lebih lanjut tentang pengalaman anda?",
+      "type": "text"
+    },
+      {
+      "SourceText": "Thanks again for being part of ParentText and for your commitment to your children’s wellbeing and happiness. You are a star!",
+      "text": "Terima kasih sekali lagi kerana menjadi sebahagian daripada ParentText dan untuk komitmen anda terhadap kesejahteraan dan kebahgaiaan anak anda. Anda adalah bintang!",
+      "type": "text"
+    },
+    {
+      "SourceText": "Congratulations for finishing the ParentText programme @fields.user_name! What a great accomplishment!",
+      "text": "Tahniah kerana telah melengkapkan program ParentText @fields.user_name! Ini satu pencapaian yang hebat!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+    },
+    {
+      "SourceText": "Congratulations for finishing the ParentText programme! What a great accomplishment!",
+      "text": "Tahniah kerana telah melengkapkan program ParentText! Ini satu pencapaian yang hebat!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+    },
+    {
+      "SourceText": "Tahniah kerana telah melengkapkan program ParentText! Ini satu pencapaian yang hebat!",
+      "text": "Congratulations for finishing the ParentText programme! What a great accomplishment!",
+      "type": "text"
+    },
+    {
+      "SourceText": "You have collected @fields.n_skills/@fields.total_skills skills! What an achievement!",
+      "text": "Anda telah mengumpulkan sebanyak @fields.n_skills/@fields.total_skills skills kemahiran!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
+    },
+    {
+      "SourceText": "You have added @fields.n_skills/@fields.total_skills layers to your House of Support! What an achievement!",
+      "text": "Anda telah menambah @fields.n_skills/@fields.total_skills lagi lapisan kepada Rumah Sokongan Anda!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
+    },
+    {
+      "SourceText": "Would you like to tell us about your experience?",
+      "text": "Adakah anda ingin memberitahu kami tentang pengalaman anda?",
+      "type": "text"
+    },
+    {
+      "SourceText": "Would you like to tell me about your experience?",
+      "text": "Adakah anda ingin memberitahu saya tentang pengalaman anda?",
+      "type": "text"
+    },
+    {
+      "SourceText": "Hi @fields.user_name! In the current times everyone is feeling a little stressed and a brief relaxation activity might help. Please type \"Relax\" to receive the activity!",
+      "text": "Hai @fields.user_name! Pada masa sekarang semua orang berasa sedikit tertekan dan aktiviti santai yang ringkas mungkin dapat membantu. Sila taip \"Relaks\" untuk menerima aktiviti!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+    },
+    {
+      "SourceText": "Hi! In the current times everyone is feeling a little stressed and a brief relaxation activity might help. Please type \"Relax\" to receive the activity!",
+      "text": "Hai! Pada masa sekarang semua orang berasa sedikit tertekan dan aktiviti santai yang ringkas mungkin dapat membantu. Sila taip \"Relaks\" untuk menerima aktiviti!",
+      "type": "text"
+    },
+    {
+      "SourceText": "Hi @fields.user_name! We have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!",
+      "text": "Hai @fields.user_name! Kami mempunyai idea yang bagus tentang aktiviti menyeronokkan untuk anda dan @fields.child_nickname. Sila taip \" Mainkan \" untuk menerima aktiviti!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+    },
+    {
+      "SourceText": "Hi @fields.user_name! I have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!",
+      "text": "Hai @fields.user_name! Saya mempunyai idea yang bagus tentang aktiviti menyeronokkan untuk anda dan @fields.child_nickname. Sila taip \" Mainkan \" untuk menerima aktiviti!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+    },
+    {
+      "SourceText": "Hi @fields.user_name! We have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!",
+      "text": "Hai @fields.user_name! Kami mempunyai idea yang bagus tentang aktiviti menyeronokkan untuk anda dan anak anda. Sila taip \" Mainkan \" untuk menerima aktiviti!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+    },
+    {
+      "SourceText": "Hi @fields.user_name! I have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!",
+      "text": "Hai @fields.user_name! Saya mempunyai idea yang bagus tentang aktiviti menyeronokkan untuk anda dan anak anda. Sila taip \" Mainkan \" untuk menerima aktiviti!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+    },
+    {
+      "SourceText": "Hi! We have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!",
+      "text": "Hai! Kami mempunyai idea yang bagus tentang aktiviti menyeronokkan untuk anda dan @fields.child_nickname. Sila taip \" Mainkan \" untuk menerima aktiviti!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+    },
+    {
+      "SourceText": "Hi! I have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!",
+      "text": "Hai! Saya mempunyai idea yang bagus tentang aktiviti menyeronokkan untuk anda dan @fields.child_nickname. Sila taip \" Mainkan \" untuk menerima aktiviti!",
+      "type": "text",
+      "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+    },
+    {
+      "SourceText": "Hi! We have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!",
+      "text": "Hai! Kami mempunyai idea yang bagus tentang aktiviti menyeronokkan untuk anda dan anak anda. Sila taip \" Mainkan \" untuk menerima aktiviti!",
+      "type": "text"
+    },
+    {
+      "SourceText": "Hi! I have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!",
+      "text": "Hai! Saya mempunyai idea yang bagus tentang aktiviti menyeronokkan untuk anda dan anak anda. Sila taip \" Mainkan \" untuk menerima aktiviti!",
+      "type": "text"
+    },
+    {
+      "SourceText": "Please tell us about the length of the ParentText programme (total number of days you received messages). ParentText was...",
+      "text": "Sila beritahu kami tentang jumlah bilangan hari anda menerima mesej dari ParentText. Adakah ParentText…",
+      "type": "text"
+    },
+    {
+      "SourceText": "Please tell me about the length of the ParentText programme (total number of days you received messages). ParentText was...",
+      "text": "Sila beritahu kami tentang tempoh program ParentText (jumlah bilangan hari anda menerima mesej dari ParentText).  Tempoh masa program ParentText adalah...",
+      "type": "text"
+    },
+    {
+      "SourceText": "Thank so much for your feedback! Please feel free to provide more feedback or type \"N\" to finish.",
+      "text": "Terima kasih untuk maklum balas anda! Anda bebas untuk memberikan lebih banyak maklum balas atau taip \"T\" untuk tamat. ",
+      "type": "text"
+    },
+    {
+      "SourceText": "Please tell us about the number of messages that you received each day. They were...",
+      "text": "Sila beritahu kami tentang jumlah bilangan mesej yang anda telah terima setiap hari. Adakah mesej-mesej itu…",
+      "type": "text"
+    },
+    {
+      "SourceText": "Please tell me about the number of messages that you received each day. They were...",
+      "text": "Sila beritahu kami tentang jumlah bilangan mesej yang anda terima setiap hari. Mesej-mesej itu adalah…",
+      "type": "text"
+    },
+    {
+      "SourceText": "Open ended question: Is there anything we can do to improve the ParentText chatbot for other families? Please feel free to write as much as you want!",
+      "text": "Soalan terbuka: Adakah sebarang perkara yang boleh kami lakukan untuk menambah baik chatbot ParentText untuk kegunaan keluarga lain? Sila nyatakan cadangan anda sebanyak mana yang anda suka!",
+      "type": "text"
+    },
+    {
+      "SourceText": "Open ended question: Is there anything I can do to improve the ParentText chatbot for other families? Please feel free to write as much as you want!",
+      "text": "Soalan terbuka: Adakah sebarang perkara yang boleh kami lakukan untuk menambah baik chatbot ParentText untuk kegunaan keluarga lain? Sila nyatakan cadangan anda sebanyak mana yang anda suka!",
+      "type": "text"
+    },
+    {
+      "SourceText": "That is great! We really appreciate your feedback!",
+      "text": "Itu sangat bagus! Kami amat menghargai maklum balas anda!",
+      "type": "text"
+    },
+    {
+      "SourceText": "That is great! I really appreciate your feedback!",
+      "text": "Itu sangat bagus! Saya amat menghargai maklum balas anda!",
+      "type": "text"
+    },
+    {
+      "SourceText": "Too few",
+      "text": "Terlalu sedikit bilangannya untuk setiap hari",
+      "type": "quick_replies",
+      "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    },
+    {
+      "SourceText": "Too many",
+      "text": "Terlalu banyak bilangannya untuk setiap hari",
+      "type": "quick_replies",
+      "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    },
+    {
+      "SourceText": "short",
+      "text": "pendek",
+      "type": "arguments",
+      "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    },
+    {
+      "SourceText": "right",
+      "text": "elok",
+      "type": "arguments",
+      "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    },
+    {
+      "SourceText": "long",
+      "text": "panjang",
+      "type": "arguments",
+      "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    },
+    {
+      "SourceText": "few",
+      "text": "sedikit",
+      "type": "arguments",
+      "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    },
+    {
+      "SourceText": "many",
+      "text": "banyak",
+      "type": "arguments",
+      "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    }
+  ]
