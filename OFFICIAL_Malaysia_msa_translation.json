@@ -12803,7 +12803,7 @@
   },
   {
     "SourceText": "Thanks so much for a great chat session! We are really happy you signed up for these tips. Tomorrow we will start off by learning more about building positive relationships with our children. Remember that you can always get more information by typing \"Help\".",
-    "text": "Terima kasih banyak untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan tip ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
+    "text": "Terima kasih banyak untuk sesi sembang yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan tip ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
     "type": "text"
   },
   {
@@ -17848,7 +17848,7 @@
   },
   {
     "SourceText": "We would love to learn more about how we can improve these messages. Would you be willing to chat with us about your experience? You will receive a free data voucher if you are contacted for an interview!",
-    "text": "Kami ingin mengetahui lebih lanjut tentang cara kami dapat menambah baik mesej ini. Adakah anda bersetuju berbual dengan kami tentang pengalaman anda? Anda akan menerima baucar data percuma sekiranya anda dihubungi untuk temu bual!",
+    "text": "Kami ingin mengetahui lebih lanjut tentang cara kami dapat menambah baik mesej ini. Adakah anda bersetuju berbual dengan kami tentang pengalaman anda? Anda akan menerima baucar data percuma sekiranya anda dihubungi untuk temu sembang!",
     "type": "text"
   },
   {
@@ -18088,7 +18088,7 @@
   },
   {
     "SourceText": "We would love to learn more about how we can improve our programme. Would you be willing to chat with us about why you chose not to receive these messages? You will receive a free data voucher if you are contacted for an interview!",
-    "text": "Kami ingin mengetahui lebih lanjut tentang cara kami dapat menambah baik program ini. Adakah anda bersedia untuk berbual dengan kami tentang sebab anda memilih untuk tidak menerima mesej ini? Anda akan menerima baucar data percuma sekiranya anda dihubungi untuk temu bual!",
+    "text": "Kami ingin mengetahui lebih lanjut tentang cara kami dapat menambah baik program ini. Adakah anda bersedia untuk berbual dengan kami tentang sebab anda memilih untuk tidak menerima mesej ini? Anda akan menerima baucar data percuma sekiranya anda dihubungi untuk temu sembang!",
     "type": "text"
   },
   {
@@ -18247,19 +18247,19 @@
   },
   {
     "SourceText": "Thanks so much @fields.user_name for a great chat session! We are really happy you signed up for these tips. Tomorrow we will start off by learning more about building positive relationships with our children. Remember that you can always get more information by typing \"Help\".",
-    "text": "Terima kasih banyak @fields.user_name untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan tip ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
+    "text": "Terima kasih banyak @fields.user_name untuk sesi sembang yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan tip ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Thanks so much @fields.user_name for a great chat session! I am really happy you signed up for these tips. Tomorrow we will start off by learning more about building positive relationships with our children. Remember that you can always get more information by typing \"Help\".",
-    "text": "Terima kasih banyak @fields.user_name untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan tip-tip ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
+    "text": "Terima kasih banyak @fields.user_name untuk sesi sembang yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan tip-tip ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Thanks so much for a great chat session! I am really happy you signed up for these tips. Tomorrow we will start off by learning more about building positive relationships with our children. Remember that you can always get more information by typing \"Help\".",
-    "text": "Terima kasih banyak untuk sesi bual yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan tip-tip ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
+    "text": "Terima kasih banyak untuk sesi sembang yang hebat! Kami benar-benar gembira kerana anda mendaftar untuk mendapatkan tip-tip ini. Esok kita akan bermula dengan mempelajari lebih banyak tentang membina hubungan positif dengan anak-anak kita. Ingatlah bahawa anda sentiasa boleh mendapatkan lebih banyak maklumat dengan menaip \"Tolong\".",
     "type": "text"
   },
   {
@@ -23524,7 +23524,7 @@
   },
   {
     "SourceText": "Our research partners at University Putra Malaysia would like to interview you to learn how we can improve ParentText. This will take only 30 minutes and really help us out a lot! Would you be willing to be contacted?",
-    "text": "Rakan kaji selidik kami di Universiti Putra Malaysia ingin menemu bual anda untuk mengetahui cara kami dapat menambah baik ParentText. Temu bual ini hanya 30 minit dan sangat membantu kami! Adakah anda sedia dihubungi?",
+    "text": "Rakan kaji selidik kami di Universiti Putra Malaysia ingin menemu sembang anda untuk mengetahui cara kami dapat menambah baik ParentText. Temu sembang ini hanya 30 minit dan sangat membantu kami! Adakah anda sedia dihubungi?",
     "type": "text"
   },
   {
@@ -23544,7 +23544,7 @@
   },
   {
     "SourceText": "Are you sure? We would really appreciate your support! It is also okay to say \"no\". You can still participate in the programme even if you do not want to be interviewed.",
-    "text": "Adakah anda pasti? Kami sangat menghargai sokongan anda! Tidak mengapa jika jawapan anda \"tidak\". Anda masih boleh menyertai program ini walaupun anda tidak mahu ditemu bual.",
+    "text": "Adakah anda pasti? Kami sangat menghargai sokongan anda! Tidak mengapa jika jawapan anda \"tidak\". Anda masih boleh menyertai program ini walaupun anda tidak mahu ditemu sembang.",
     "type": "text"
   },
   {
@@ -23560,7 +23560,7 @@
   },
   {
     "SourceText": "Thanks! Can you please provide us with your mobile number? We will only use this number to contact you for the interview. It will not be shared anywhere else and will be deleted afterwards.",
-    "text": "Terima kasih! Boleh berikan nombor telefon anda kepada kami? Kami akan menggunakan nombor ini untuk menghubungi anda untuk temu bual sahaja. Nombor anda tidak akan dikongsi di tempat lain dan akan dipadamkan selepas itu.",
+    "text": "Terima kasih! Boleh berikan nombor telefon anda kepada kami? Kami akan menggunakan nombor ini untuk menghubungi anda untuk temu sembang sahaja. Nombor anda tidak akan dikongsi di tempat lain dan akan dipadamkan selepas itu.",
     "type": "text"
   },
   {
@@ -23980,7 +23980,7 @@
   },
   {
     "SourceText": "I want to participate in an interview",
-    "text": "Saya ingin menyertai temu bual",
+    "text": "Saya ingin menyertai temu sembang",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -24052,7 +24052,7 @@
   },
   {
     "SourceText": "i want to participate in an interview",
-    "text": "saya ingin menyertai temu bual",
+    "text": "saya ingin menyertai temu sembang",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
