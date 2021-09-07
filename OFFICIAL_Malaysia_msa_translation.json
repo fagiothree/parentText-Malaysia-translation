@@ -13589,7 +13589,7 @@
   },
   {
     "SourceText": "Look for support organisations in your area",
-    "text": "Cari organisasi sokongan di kawasan anda",
+    "text": "Senarai organisasi sokongan di kawasan anda",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -14147,7 +14147,7 @@
   },
   {
     "SourceText": "look for support organisations in your area",
-    "text": "cari organisasi sokongan di kawasan anda",
+    "text": "senarai organisasi sokongan di kawasan anda",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
