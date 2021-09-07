@@ -10896,7 +10896,7 @@
   },
   {
     "SourceText": "Can we ask you a few questions to help these messages work better for you?  If you do not want to answer any questions, it is completely okay. Remember, everything you say will be completely private.",
-    "text": "Bolehkah kami menanyakan beberapa soalan untuk membantu mesej ini berkesan dengan lebih baik untuk anda? Jika anda tidak mahu untuk menjawab sebarang soalan, tidak mengapa. Ingat, semua yang anda katakan akan menjadi peribadi sepenuhnya.",
+    "text": "Bolehkah kami menanyakan beberapa soalan untuk membantu mesej ini berkesan dengan lebih baik untuk anda? Jika anda tidak mahu untuk menjawab sebarang soalan, tidak mengapa. Ingat, semua yang anda katakan akan menjadi sulit sepenuhnya.",
     "type": "text"
   },
   {
@@ -10996,7 +10996,7 @@
   },
   {
     "SourceText": "Can we ask you a few more quick questions about your relationship with your partner? Everything you say will be completely private.",
-    "text": "Bolehkah kami mengajukan beberapa soalan ringkas mengenai hubungan anda dengan pasangan anda? Semua yang anda katakan akan menjadi peribadi sepenuhnya.",
+    "text": "Bolehkah kami mengajukan beberapa soalan ringkas mengenai hubungan anda dengan pasangan anda? Semua yang anda katakan akan menjadi sulit sepenuhnya.",
     "type": "text"
   },
   {
@@ -23398,7 +23398,7 @@
   },
   {
     "SourceText": "Everything you say will be completely private.",
-    "text": "Semua yang anda katakan akan menjadi peribadi sepenuhnya.",
+    "text": "Semua yang anda katakan akan menjadi sulit sepenuhnya.",
     "type": "text"
   },    {
     "SourceText": "prefer",
