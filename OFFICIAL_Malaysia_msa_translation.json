@@ -22705,7 +22705,7 @@
   },
   {
     "SourceText": "Congratulations! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
-    "text": "Tahniah! Anda telah menambah satu tingkat lagi pada Rumah Sokongan anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dan @fields.child_nickname. Syabas!",
+    "text": "Tahniah! Anda telah menambah satu lapisan lagi pada Rumah Sokongan anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dan @fields.child_nickname. Syabas!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
