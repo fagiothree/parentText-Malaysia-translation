@@ -15286,7 +15286,7 @@
   },
   {
     "SourceText": "You have added @results.n_skills_week layers to your House of Support this week:",
-    "text": "Anda telah menambah @results.n_skills_week lagi tingkat kepada Rumah Sokongan Anda minggu ini:",
+    "text": "Anda telah menambah @results.n_skills_week lagi lapisan kepada Rumah Sokongan Anda minggu ini:",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
   },
