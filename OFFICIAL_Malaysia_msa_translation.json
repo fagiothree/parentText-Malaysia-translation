@@ -20433,7 +20433,7 @@
   },
   {
     "SourceText": "Well done @fields.user_name! You have added another layer to your House of Support! Over the next few days, try to spend some time reading or looking at a book or magazine with your child. Sharing books with your child will help them to learn to speak, think, and focus better. It also builds their brain!",
-    "text": "Syabas @fields.user_name! Anda telah menambah satu lagi tingkat pada Rumah Sokongan anda! Selama beberapa hari akan datang, cuba luangkan masa membaca buku atau majalah bersama anak anda. Berkongsi buku dengan anak anda akan membantu mereka belajar bercakap, berfikir dan fokus dengan lebih baik. Ini juga membina otak mereka!",
+    "text": "Syabas @fields.user_name! Anda telah menambah satu lagi lapisan pada Rumah Sokongan anda! Selama beberapa hari akan datang, cuba luangkan masa membaca buku atau majalah bersama anak anda. Berkongsi buku dengan anak anda akan membantu mereka belajar bercakap, berfikir dan fokus dengan lebih baik. Ini juga membina otak mereka!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
