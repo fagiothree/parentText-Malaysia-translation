@@ -20906,7 +20906,7 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Have you tried sharing a book with your child recently?",
-    "text": "Hai @fields.user_name! Adakah anda pernah cuba berkongsi buku dengan anak anda baru-baru ini?",
+    "text": "Hai @fields.user_name! Adakah anda pernah cuba membaca bersama dengan anak anda baru-baru ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
