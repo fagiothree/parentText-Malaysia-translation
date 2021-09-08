@@ -19021,7 +19021,7 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Could you be spending more time with your children and less time on your phone? Put it down and do something fun together!",
-    "text": "Hai @fields.user_name! Bolehkah anda melapangkan lebih banyak masa dengan anak-anak anda dan kurangkan masa dengan telefon anda? Letakkan telefon anda dan lakukan sesuatu yang menyeronokkan bersama-sama!",
+    "text": "Hai @fields.user_name! Bolehkah anda meluangkan lebih banyak masa dengan anak-anak anda dan kurangkan masa dengan telefon anda? Letakkan telefon anda dan lakukan sesuatu yang menyeronokkan bersama-sama!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
