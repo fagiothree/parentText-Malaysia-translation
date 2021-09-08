@@ -701,7 +701,7 @@
   },
   {
     "SourceText": "Hello! Book-sharing can be a great learning for your child. You can use a simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
-    "text": "Helo! Berkongsi buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan anak anda.",
+    "text": "Helo! Membaca bersama boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan anak anda.",
     "type": "text"
   },
   {
@@ -10129,12 +10129,12 @@
   },
   {
     "SourceText": "Hello! Book-sharing can be a great learning tool for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
-    "text": "Helo! Berkongsi buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan anak anda.",
+    "text": "Helo! Membaca bersama boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan anak anda.",
     "type": "text"
   },
   {
     "SourceText": "Book-sharing can be a great learning tool for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
-    "text": "Berkongsi buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan anak anda.",
+    "text": "Membaca bersama boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan anak anda.",
     "type": "text"
   },
   {
@@ -14940,7 +14940,7 @@
   },
   {
     "SourceText": "Hello @fields.user_name! Book-sharing can be a great learning tool for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
-    "text": "Helo @fields.user_name! Berkongsi buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan anak anda.",
+    "text": "Helo @fields.user_name! Membaca bersama boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan anak anda.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14952,7 +14952,7 @@
   },
   {
     "SourceText": "Book-sharing can be a great learning for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and @fields.child_nickname can enjoy.",
-    "text": "Berkongsi buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan @fields.child_nickname.",
+    "text": "Membaca bersama boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah di buku, majalah, atau surat khabar untuk melakukan banyak perkara yang dapat menyeronokkan anda dan @fields.child_nickname.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -23653,7 +23653,7 @@
   },
   {
     "SourceText": "Book-sharing can be a great learning tool for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and @fields.child_nickname can enjoy.",
-    "text": "Berkongsi buku boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah dalam buku, majalah atau surat khabar untuk melakukan pelbagai perkara yang menyeronokkan anda dan @fields.child_nickname.",
+    "text": "Membaca bersama boleh menjadi pembelajaran yang baik untuk anak anda. Anda boleh menggunakan gambar mudah dalam buku, majalah atau surat khabar untuk melakukan pelbagai perkara yang menyeronokkan anda dan @fields.child_nickname.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
