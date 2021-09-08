@@ -7324,7 +7324,7 @@
   },
   {
     "SourceText": "@results.count  Shared reading",
-    "text": "@results.count  Bacaan bersama",
+    "text": "@results.count  Membaca bersama",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
   },
