@@ -15292,7 +15292,7 @@
   },
   {
     "SourceText": "You have added one layer to your House of Support this week:",
-    "text": "Anda telah menambah satu lagi tingkat kepada Rumah Sokongan Anda minggu ini:",
+    "text": "Anda telah menambah satu lagi lapisan kepada Rumah Sokongan Anda minggu ini:",
     "type": "text"
   },
   {
@@ -18214,7 +18214,7 @@
   },
   {
     "SourceText": "Congratulations @fields.user_name! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and your children. Well done!",
-    "text": "Tahniah @fields.user_name! Anda telah menambah satu tingkat lagi pada Rumah Sokongan Anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dengan anak-anak anda. Syabas!",
+    "text": "Tahniah @fields.user_name! Anda telah menambah satu lapisan lagi pada Rumah Sokongan Anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dengan anak-anak anda. Syabas!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -18236,13 +18236,13 @@
   },
   {
     "SourceText": "Well done for Taking a Pause @fields.user_name! You have added your second layer to your House of Support - learning how to manage stress. Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah tingkat kedua pada Rumah Sokongan anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah lapisan kedua pada Rumah Sokongan anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Well done for Taking a Pause. You have added your second layer to your House of Support - learning how to manage stress. Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah tingkat kedua pada Rumah Sokongan anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah lapisan kedua pada Rumah Sokongan anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text"
   },
   {
@@ -22699,7 +22699,7 @@
   },
   {
     "SourceText": "Congratulations @fields.user_name! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and @fields.child_nickname. Well done!",
-    "text": "Tahniah @fields.user_name! Anda telah menambah satu tingkat lagi pada Rumah Sokongan anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dan @fields.child_nickname. Syabas!",
+    "text": "Tahniah @fields.user_name! Anda telah menambah satu lapisan lagi pada Rumah Sokongan anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dan @fields.child_nickname. Syabas!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -22729,25 +22729,25 @@
   },
   {
     "SourceText": "Well done for Taking a Pause @fields.user_name! You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
-    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah satu tingkat pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan @fields.child_nickname!",
+    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah satu lapisan pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan @fields.child_nickname!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Well done for Taking a Pause @fields.user_name! You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah satu tingkat pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah satu lapisan pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Well done for Taking a Pause. You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with @fields.child_nickname!",
-    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah satu tingkat pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan @fields.child_nickname!",
+    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah satu lapisan pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan @fields.child_nickname!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Well done for Taking a Pause. You have added your second layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah satu tingkat pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah satu lapisan pada Rumah Sokongan Anda! Untuk beberapa hari akan datang, cuba berhenti seketika tatkala anda rasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, akan ada perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text"
   },
   {
