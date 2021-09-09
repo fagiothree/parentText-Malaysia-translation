@@ -20795,13 +20795,13 @@
   },
   {
     "SourceText": "Hi @fields.user_name! How are you feeling right now? Would you like to take a quick pause together? It might be helpful.",
-    "text": "Hai @fields.user_name! Bagaimanakah perasaan anda sekarang? Adakah anda ingin berhenti seketika bersama? Ini mungkin boleh membantu.",
+    "text": "Hai @fields.user_name! Bagaimanakah perasaan anda sekarang? Adakah anda ingin melakukan aktiviti berhenti seketika bersama? Ini mungkin boleh membantu.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hi! How are you feeling right now? Would you like to take a quick pause together? It might be helpful.",
-    "text": "Hai! Bagaimanakah perasaan anda sekarang? Adakah anda ingin berhenti seketika bersama? Ini mungkin boleh membantu.",
+    "text": "Hai! Bagaimanakah perasaan anda sekarang? Adakah anda ingin melakukan aktiviti berhenti seketika bersama? Ini mungkin boleh membantu.",
     "type": "text"
   },
   {
