@@ -14838,7 +14838,7 @@
   },
   {
     "SourceText": "Ignore negative attention seeking and demanding behaviours like whining or tantrums. Your @fields.child_nickname’s behaviour might at first get worse, but with time they will learn that it does not work. Be consistent and patient. And make sure that you are also giving @fields.child_nickname plenty of positive attention at other times. You can do it!",
-    "text": "Abaikan tingkah laku negatif yang ingin mendapatkan perhatian seperti merengek atau mengamuk. Tingkah laku @fields.child_nickname mungkin pada mulanya menjadi teruk, tetapi dengan peredaran masa mereka akan belajar bahawa ia tidak berkesan. Bersikap konsisten dan sabar. Dan pastikan anda juga memberikan @fields.child_nickname banyak perhatian positif pada masa lain. Anda boleh lakukannya!",
+    "text": "Abaikan tingkah laku negatif yang ingin mendapatkan perhatian seperti merengek atau mengamuk. Tingkah laku @fields.child_nickname mungkin pada mulanya agak teruk, tetapi lama kelamaan mereka akan belajar bahawa ia tidak berkesan. Bersikap konsisten dan sabar. Dan pastikan anda juga memberikan @fields.child_nickname banyak perhatian positif pada masa lain. Anda boleh lakukannya!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
