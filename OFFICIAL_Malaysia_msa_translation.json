@@ -16096,7 +16096,7 @@
   },
   {
     "SourceText": "Here's a video about spending one-on-one time with @fields.child_nickname!",
-    "text": "Berikut ialah video tentang meluangkan masa bersama seorang dengan seorang dengan@fields.child_nickname!",
+    "text": "​​Video ini berkenaan Masa Bersama Seorang-dengan-Seorang dengan @fields.child_nickname!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
