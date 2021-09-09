@@ -20257,7 +20257,7 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Were you able to spend 5 minutes or more of One-on-One Time with your children today?",
-    "text": "Hai @fields.user_name! Adakah anda telah meluangkan 5 minit atau lebih untuk Masa Seorang-dengan-Seorang dengan anak anda hari ini?",
+    "text": "Hai @fields.user_name! Adakah anda telah meluangkan 5 minit atau lebih untuk Masa Bersama Seorang-dengan-Seorang dengan anak anda hari ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
