@@ -14946,7 +14946,7 @@
   },
   {
     "SourceText": "Would you like to learn more about how you can help @fields.child_nickname develop through book sharing?",
-    "text": "Adakah anda ingin mengetahui lebih lanjut mengenai bagaimana anda dapat membantu @fields.child_nickname berkembang melalui perkongsian buku?",
+    "text": "Adakah anda ingin mengetahui lebih lanjut mengenai bagaimana anda dapat membantu @fields.child_nickname berkembang melalui berkongsi membaca buku?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
