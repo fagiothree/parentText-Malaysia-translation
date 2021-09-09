@@ -14820,7 +14820,7 @@
   },
   {
     "SourceText": "Use physical and verbal support to make @fields.child_nickname feel accepted and loved. A hug or saying, \"I understand,\" can mean a lot. Remind @fields.child_nickname that you are there for them and that they can always talk to you. ",
-    "text": "Gunakan sokongan fizikal dan lisan untuk membuatkan @fields.child_nickname merasa diterima dan disayangi. Pelukan atau berkata, \"Saya faham,\" boleh menjadi sangat bermakna. Ingatkan @fields.child_nickname bahawa anda ada di sana untuk mereka dan mereka boleh sentiasa bercakap dengan anda. ",
+    "text": "Gunakan sokongan fizikal dan lisan untuk membuatkan @fields.child_nickname merasa diterima dan disayangi. Pelukan atau berkata, \"Saya faham,\" boleh menjadi sangat bermakna. Ingatkan @fields.child_nickname bahawa anda akan sentiasa bersama dan bercakap dengan mereka. ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
