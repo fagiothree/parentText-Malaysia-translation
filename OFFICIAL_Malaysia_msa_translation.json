@@ -16124,7 +16124,7 @@
   },
   {
     "SourceText": "Give just enough help to let it be the child’s achievement. It is okay to play alongside and copy what they are doing but try to let them keep the initiative. If @fields.child_nickname gets frustrated, you can reassure @fields.child_nickname by gently stroking their back.",
-    "text": "Berikan bantuan sekadar memadai untuk menjadikan perkara itu adalah pencapaian kanak-kanak tersebut. Anda boleh turut serta dan meniru tindakan mereka, namun biarkan mereka yang mengekalkan inisiatif tersebut. Jika @fields.child_nicknameme rasa kecewa, anda boleh meyakinkan@fields.child_nickname dengan mengosok-gosok belakang badan mereka.",
+    "text": "Berikan bantuan sekadar memadai untuk menjadikan perkara itu adalah pencapaian kanak-kanak tersebut. Anda boleh turut serta dan meniru tindakan mereka, namun biarkan mereka yang mengekalkan inisiatif tersebut. Jika @fields.child_nicknameme rasa kecewa, anda boleh meyakinkan@fields.child_nickname dengan mengusap-usap belakang badan mereka.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
