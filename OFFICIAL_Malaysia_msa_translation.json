@@ -8050,127 +8050,127 @@
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was crying a lot. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia kuat menangis. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia kuat menangis. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems sleeping. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda bagi adalah dia susah tidur. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda bagi adalah dia susah tidur. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was whining for things. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka merengek meminta barang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka merengek meminta barang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was acting clingy. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia sukar berenggang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia sukar berenggang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being bad tempered or moody. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia cepat marah atau meragam. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia cepat marah atau meragam. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems eating. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia susah makan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia susah makan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being stubborn or fussy. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia degil atau cerewet. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia degil atau cerewet. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was naughty behaviour. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia nakal. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia nakal. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was temper tantrums. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka buat perangai. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka buat perangai. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was refusing to obey instructions. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia enggan mengikut arahan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia enggan mengikut arahan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hyperactivity. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia terlampau aktif. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia terlampau aktif. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being disrespectful. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia berkelakuan tidak sopan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia berkelakuan tidak sopan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hitting others. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka pukul orang lain. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka pukul orang lain. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was breaking things. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka pecahkan barang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka pecahkan barang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting into fights. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka bergaduh. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka bergaduh. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was teasing or bothering others. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka mengejek atau mengacau orang lain. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka mengejek atau mengacau orang lain. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting angry a lot. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia kerap marah. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia kerap marah. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was rudeness, disrespectful behaviour. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia biadap, dan berkelakuan tidak sopan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia biadap, dan berkelakuan tidak sopan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being irritable, having frequent mood changes. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia sering meragam dan kerap bertukar angin. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia sering meragam dan kerap bertukar angin. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was not following rules. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia tidak ikut peraturan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia tidak ikut peraturan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was stubbornness. How would you rate this problem now on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia degil. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia degil. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 8 (0 = tidak menjadi masalah dan 8 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
@@ -10269,127 +10269,127 @@
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was crying a lot. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia kuat menangis. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia kuat menangis. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems sleeping. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda bagi adalah dia susah tidur. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda bagi adalah dia susah tidur. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was whining for things. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka merengek meminta barang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka merengek meminta barang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was acting clingy. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia sukar berenggang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia sukar berenggang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being bad tempered or moody. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia cepat marah atau meragam. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia cepat marah atau meragam. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was problems eating. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia susah makan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia susah makan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being stubborn or fussy. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia degil atau cerewet. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia degil atau cerewet. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was naughty behaviour. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia nakal. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia nakal. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was temper tantrums. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka buat perangai. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka buat perangai. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was refusing to obey instructions. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia enggan mengikut arahan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia enggan mengikut arahan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hyperactivity. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia terlampau aktif. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia terlampau aktif. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being disrespectful. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia berkelakuan tidak sopan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia berkelakuan tidak sopan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was hitting others. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka pukul orang lain. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka pukul orang lain. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was breaking things. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka pecahkan barang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka pecahkan barang. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting into fights. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka bergaduh. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka bergaduh. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was teasing or bothering others. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia suka mengejek atau mengacau orang lain. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia suka mengejek atau mengacau orang lain. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was getting angry a lot. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia kerap marah. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia kerap marah. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was rudeness, disrespectful behaviour. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia biadap, dan berkelakuan tidak sopan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia biadap, dan berkelakuan tidak sopan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was being irritable, having frequent mood changes. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia sering meragam dan kerap bertukar angin. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia sering meragam dan kerap bertukar angin. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was not following rules. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia tidak ikut peraturan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia tidak ikut peraturan. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
   {
     "SourceText": "Previously you said that @fields.survey_behave_name's most challenging behaviour for you was stubbornness. How would you rate this problem now on a scale of 0 to 7 (0 = not a problem and 7 = terrible)?",
-    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name's yang paling mencabar bagi anda adalah dia degil. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
+    "text": "Sebelum ini, anda berkata tingkah laku @fields.survey_behave_name yang paling mencabar bagi anda adalah dia degil. Bagaimana anda menilai masalah ini sekarang pada skala dari 0 hingga 7 (0 = tidak menjadi masalah dan 7 = teruk)?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
@@ -15647,7 +15647,7 @@
   },
   {
     "SourceText": "I would also like to know how you are doing with @fields.survey_behave_name. ",
-    "text": "Saya juga ingin tahu keadaan anda @fields.survey_behave_name. ",
+    "text": "Saya juga ingin tahu keadaan anak anda, @fields.survey_behave_name. ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child"
   },
