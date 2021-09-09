@@ -14387,7 +14387,7 @@
   },
   {
     "SourceText": "Top marks for effort @fields.user_name! It’s not easy but you tried your best. That’s all you can ever do!",
-    "text": "Markah tertinggi untuk usaha @fields.user_name! Ia tidak mudah tetapi anda mencuba yang terbaik. Itu sahaja yang boleh anda lakukan!",
+    "text": "Markah tertinggi untuk usaha @fields.user_name! Ia tidak mudah tetapi anda telah cuba yang terbaik. Itu sahaja yang boleh anda lakukan!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
