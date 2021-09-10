@@ -6732,7 +6732,7 @@
   },
   {
     "SourceText": "Has anyone told you how incredible you are for being there for your children during a global pandemic? There’s no guidebook for these challenging times but you’re doing it! That makes you amazing!",
-    "text": "Adakah ada yang memberitahu anda betapa luar biasa anda berada di sana untuk anak-anak anda ketika wabak global? Tidak ada buku panduan untuk masa-masa yang mencabar ini tetapi anda melakukannya! Itu menjadikan anda luar biasa!",
+    "text": "Ada yang memberitahu anda betapa luar biasanya anda berada bersama anak-anak ketika wabak global ini? Tidak ada buku panduan untuk masa-masa yang mencabar ini tetapi anda melakukannya! Itu menjadikan anda luar biasa!",
     "type": "text"
   },
   {
@@ -14369,7 +14369,7 @@
   },
   {
     "SourceText": "Has anyone told you how incredible you are for being there for your children during a global pandemic? There’s no guidebook for these challenging times but you’re doing it! That makes you amazing @fields.user_name!",
-    "text": "Adakah ada yang memberitahu anda betapa luar biasa anda berada di sana untuk anak-anak anda ketika wabak global? Tidak ada buku panduan untuk masa yang mencabar ini tetapi anda melakukannya! Itu menjadikan anda luar biasa @fields.user_name!",
+    "text": "Ada yang memberitahu anda betapa luar biasanya anda berada bersama anak-anak ketika wabak global ini? Tidak ada buku panduan untuk masa yang mencabar ini tetapi anda melakukannya! Itu menjadikan anda luar biasa @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
