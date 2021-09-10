@@ -20439,13 +20439,13 @@
   },
   {
     "SourceText": "Have you noticed and shared emotions with @fields.child_nickname recently?",
-    "text": "Sudahkan anda memerhatikan dan berkongsi emosi dengan @fields.child_nickname baru-baru ini?",
+    "text": "Sudahkah anda memerhatikan dan berkongsi emosi dengan @fields.child_nickname baru-baru ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Have you noticed and shared emotions with your child or teen  recently?",
-    "text": "Sudahkan anda memerhatikan dan berkongsi emosi dengan anak atau anak remaja anda baru-baru ini?",
+    "text": "Sudahkah anda memerhatikan dan berkongsi emosi dengan anak atau anak remaja anda baru-baru ini?",
     "type": "text"
   },
   {
