@@ -2954,7 +2954,7 @@
   },
   {
     "SourceText": "Ask your child what they would like to do. You can say, \"I have 5 minutes to spend One-on-One Time with you, what would you like to do?\"",
-    "text": "Tanya anak anda apa yang mereka ingin lakukan. Anda boleh kata, \"Saya ada 5 minit untuk meluangkan Masa Bersama Seorang-Dengan-Seorang dengan kamu, apa yang kamu ingin lakukan?\"",
+    "text": "Tanya anak anda apa yang mereka ingin lakukan. Anda boleh kata, \"Saya ada 5 minit untuk meluangkan Masa Bersama Seorang-dengan-Seorang dengan kamu, apa yang kamu ingin lakukan?\"",
     "type": "text"
   },
   {
@@ -15059,7 +15059,7 @@
   },
   {
     "SourceText": "Ask @fields.child_nickname what they would like to do. You can say, \"I have 5 minutes to spend One-on-One Time with you, what would you like to do?\"",
-    "text": "Tanya @fields.child_nickname apa yang mereka ingin lakukan. Anda boleh kata, \"Saya ada 5 minit untuk meluangkan Masa Bersama Seorang-Dengan-Seorang dengan kamu, apa yang kamu ingin lakukan?\"",
+    "text": "Tanya @fields.child_nickname apa yang mereka ingin lakukan. Anda boleh kata, \"Saya ada 5 minit untuk meluangkan Masa Bersama Seorang-dengan-Seorang dengan kamu, apa yang kamu ingin lakukan?\"",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
