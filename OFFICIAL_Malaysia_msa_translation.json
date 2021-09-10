@@ -20870,7 +20870,7 @@
   },
   {
     "SourceText": "It is completely normal to experience this challenge. Remember, it takes some time for @fields.child_nickname to get used to you redirecting their behaviour. The more time you spend with them, the better it will go!",
-    "text": "Mengalami cabaran ini adalah satu perkara yang sangat normal. Ingatlah, @fields.child_nickname memerlukan masa untuk membiasakan diri dengan anda yang mengubah tingkah laku mereka. Lebih banyak masa yang anda luangkan bersama mereka, lebih banyak perkara akan berjalan dengan lancar!",
+    "text": "Mengalami cabaran ini adalah satu perkara yang sangat normal. Ingatlah, @fields.child_nickname membiasakan diri dengan perubahan yang anda lakukan pada mereka. Lebih banyak masa yang anda luangkan bersama mereka, lebih banyak perkara akan berjalan dengan lancar!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
