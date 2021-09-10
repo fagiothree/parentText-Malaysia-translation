@@ -23767,7 +23767,7 @@
   },
   {
     "SourceText": "Remember that you can always get suggestions for activities to do by typing \"Play\". Chat later @fields.user_name!",
-    "text": "Ingat bahawa anda boleh terus dapatkan cadangan aktiviti untuk dilakukan dengan menaip “Mainkan”. Sembang kemudian @fields.user_name!",
+    "text": "Ingat bahawa anda boleh terus dapatkan cadangan aktiviti untuk dilakukan dengan menaip “Mainkan”. Jumpa lagi dilain hari @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
