@@ -17179,7 +17179,7 @@
   },
   {
     "SourceText": "Well done @fields.user_name! You have added a layer to your House of Support. Over the next few days, try to identify one negative attention-seeking behaviour that you can try to first redirect and then ignore if it continues. Remember to ignore the behaviour, not your child! It is not easy, but if you are patient and give it time, it really works. You can do this!",
-    "text": "Syabas @fields.user_name! Anda telah menambahkan satu paras lagi  lagi pada Rumah Sokongan. Selama beberapa hari akan datang, cuba kenal pasti satu tingkah laku negatif untuk mendapatkan perhatian yang boleh anda ubah, kemudian abaikan jika tingkah laku itu berterusan. Ingat, abaikan tingkah laku, bukan anak anda! Ini bukanlah sesuatu yang mudah,  tetapi jika anda sabar dan ambil sedikit masa, cara ini sangat berkesan. Anda boleh lakukannya!",
+    "text": "Syabas @fields.user_name! Anda telah menambahkan satu lapisan lagi pada Rumah Sokongan. Selama beberapa hari akan datang, cuba kenal pasti satu tingkah laku negatif untuk mendapatkan perhatian yang boleh anda ubah, kemudian abaikan jika tingkah laku itu berterusan. Ingat, abaikan tingkah laku, bukan anak anda! Ini bukanlah sesuatu yang mudah,  tetapi jika anda sabar dan ambil sedikit masa, cara ini sangat berkesan. Anda boleh lakukannya!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
