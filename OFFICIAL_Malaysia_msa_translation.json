@@ -20169,13 +20169,13 @@
   },
   {
     "SourceText": "Great! If you ever want to stop receiving messages, go to \"Technical Support\" and then select \"User Experience\". Chat to you later @fields.user_name!",
-    "text": "Hebat! Jika anda ingin berhenti daripada menerima pesanan, pergi ke “Bantuan Teknikal” dan pilih “Pengalaman Pengguna”. Sembang dengan anda kemudian @fields.user_name!",
+    "text": "Hebat! Jika anda ingin berhenti daripada menerima pesanan, pergi ke “Bantuan Teknikal” dan pilih “Pengalaman Pengguna”. Berbual lagi di lain masa @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Great! If you ever want to stop receiving messages, go to \"Technical Support\" and then select \"User Experience\". Chat to you later!",
-    "text": "Hebat! Jika anda ingin berhenti daripada menerima pesanan, pergi ke “Bantuan Teknikal” dan pilih “Pengalaman Pengguna”. Sembang dengan anda kemudian!",
+    "text": "Hebat! Jika anda ingin berhenti daripada menerima pesanan, pergi ke “Bantuan Teknikal” dan pilih “Pengalaman Pengguna”. Berbual lagi di lain masa!",
     "type": "text"
   },
   {
