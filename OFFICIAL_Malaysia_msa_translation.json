@@ -14748,7 +14748,7 @@
   },
   {
     "SourceText": "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later @fields.user_name!",
-    "text": "Ingatlah anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Berbual dengan anda kemudian @fields.user_name!",
+    "text": "Ingatlah anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Nanti kita berbual lagi @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -14892,7 +14892,7 @@
   },
   {
     "SourceText": " Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later @fields.user_name!",
-    "text": " Ingatlah anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Berbual dengan anda kemudian @fields.user_name!",
+    "text": " Ingatlah anda sentiasa boleh menaip \"Tolong\" sekiranya anda mahukan lebih banyak tip ataupun sokongan keibubapaan. Nanti kita berbual lagi @fields.user_name!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
