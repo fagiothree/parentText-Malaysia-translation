@@ -3124,7 +3124,7 @@
   },
   {
     "SourceText": "Praise works for our children, too. When you bring more attention to positive behaviour, they are likely to do it more often. They also will feel good about themselves! ",
-    "text": "Berilah pujian kepada kerja anak-anak kita, juga. Apabila anda memberi perhatian yang lebih kepada tingkah laku positif, mereka cenderung untuk melakukannya dengan lebih kerap. Mereka akan berasa lebih baik mengenai diri mereka sendiri! ",
+    "text": "Berilah pujian kepada kerja anak-anak kita juga. Apabila anda memberi perhatian yang lebih kepada tingkah laku positif, mereka cenderung untuk melakukannya dengan lebih kerap. Mereka akan berasa lebih baik mengenai diri mereka sendiri! ",
     "type": "text"
   },
   {
@@ -3149,7 +3149,7 @@
   },
   {
     "SourceText": "Praise your children when they are behaving well! They may not show it but you’ll see them doing that good behaviour again…",
-    "text": "Puji anak-anak anda ketika mereka berkelakuan baik! Mereka mungkin tidak menunjukkannya tetapi anda akan melihat mereka mengulangi tingkah laku yang baik itu lagi...",
+    "text": "Puji anak-anak anda ketika mereka berkelakuan baik! Mereka mungkin tidak menunjukkannya tetapi anda akan melihat mereka mengulangi tingkah laku yang baik itu lagi.",
     "type": "text"
   },
   {
@@ -3699,7 +3699,7 @@
   },
   {
     "SourceText": "1. Be open, honest, and supportive",
-    "text": "1. Bersikap terbuka, jujur dan menyokong",
+    "text": "1. Bersikap Terbuka, Jujur dan Menyokong",
     "type": "text"
   },
   {
@@ -3729,7 +3729,7 @@
   },
   {
     "SourceText": "Step 1. Be open, honest, and supportive",
-    "text": "Langkah 1. Bersikap terbuka, jujur dan menyokong",
+    "text": "Langkah 1. Bersikap Terbuka, Jujur dan Menyokong",
     "type": "text"
   },
   {
@@ -5094,7 +5094,7 @@
   },
   {
     "SourceText": "Step 3. Give Instructions One at a Time",
-    "text": "Langkah 3. Beri Arahan Satu per satu pada satu-satu Masa",
+    "text": "Langkah 3. Beri Arahan Satu Per Satu Pada Satu-Satu Masa",
     "type": "text"
   },
   {
@@ -5274,7 +5274,7 @@
   },
   {
     "SourceText": "• Make your household rules clear and specific.",
-    "text": "• Pastikan peraturan isi rumah anda dengan jelas dan spesifik.",
+    "text": "• Pastikan peraturan isi rumah anda adalah jelas dan spesifik.",
     "type": "text"
   },
   {
@@ -5294,7 +5294,7 @@
   },
   {
     "SourceText": "• Add only 1 household rule at a time.",
-    "text": "• Tambah hanya 1 peraturan isi rumah dalam satu-satu masa.",
+    "text": "• Tambah hanya 1 peraturan isi rumah pada satu-satu masa.",
     "type": "text"
   },
   {
@@ -7288,13 +7288,13 @@
   },
   {
     "SourceText": "@results.count  Giving positive instructions",
-    "text": "@results.count  Memberi arahan positif",
+    "text": "@results.count  Memberi Arahan Positif",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
   },
   {
     "SourceText": "@results.count  Praising your children",
-    "text": "@results.count  Memuji anak-anak anda",
+    "text": "@results.count  Memuji Anak-Anak Anda",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
   },
@@ -11051,7 +11051,7 @@
   },
   {
     "SourceText": "Remember, it takes some time for your child or teen to get used to you praising them. The more time you spend with them, the better it will go!",
-    "text": "Ingat, ianya memerlukan masa untuk anak kecil atau anak remaja anda membiasakan diri apabila anda memuji mereka. Lebih banyak masa yang anda luangkan dengan mereka, semua akan berjalan dengan lancar!",
+    "text": "Ingat, ianya memerlukan masa untuk anak remaja anda membiasakan diri apabila anda memuji mereka. Lebih banyak masa yang anda luangkan dengan mereka, semua akan berjalan dengan lancar!",
     "type": "text"
   },
   {
@@ -12346,7 +12346,7 @@
   },
   {
     "SourceText": "Here's a positive video to help you get your children to follow your instructions more often!",
-    "text": "Ini ialah video positif untuk membantu anda mengetahui cara menyuruh anak anda mengikut arahan anda dengan lebih kerap!",
+    "text": "Ini ialah video positif untuk membantu anda mengetahui cara menyuruh anak mengikut arahan dengan lebih kerap!",
     "type": "text"
   },
   {
@@ -12998,7 +12998,7 @@
   },
   {
     "SourceText": "@results.count Keeping it positive",
-    "text": "@results.count Mengekalkan sifat positif",
+    "text": "@results.count Mengekalkan Sifat Positif",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
   },
@@ -16024,24 +16024,24 @@
   },
   {
     "SourceText": "Well done for Taking a Pause @fields.user_name. You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika@fields.user_name. Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda! Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika@fields.user_name. Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda! Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila masa anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan memberi perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Well done for Taking a Pause. You have added another skill to your Parenting Toolkit! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika. Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda! Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika. Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda! Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila masa anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan memberi perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text"
   },
   {
     "SourceText": "Well done for Taking a Pause @fields.user_name. You have added another layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika@fields.user_name. Anda telah menambah satu lapisan lagi pada Rumah Sokongan anda! Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika, @fields.user_name! Anda telah menambah satu lapisan lagi pada Rumah Sokongan anda! Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila masa anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan memberi perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Well done for Taking a Pause. You have added another layer to your House of Support! Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah satu lapisan lagi pada Rumah Sokongan anda! Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah yang anda pijak, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah satu lapisan lagi pada Rumah Sokongan anda! Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila masa anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah yang anda pijak, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text"
   },
   {
@@ -17207,7 +17207,7 @@
   },
   {
     "SourceText": "Well done for adding another layer to your House of Support! Over the next few days, try to find 3 things that you can praise your children for every day. You can also praise other adults in your household, too. Notice how they respond!",
-    "text": "Syabas kerana menambah satu lagi lapisan kepada Rumah Sokongan Anda! Selama beberapa hari akan datang, cuba cari 3 perkara yang dapat anda berikan pujian kepada anak anda setiap hari. Anda juga boleh memuji ahli keluarga lain yang dewasa. Perhatikan tindak balas mereka!",
+    "text": "Syabas kerana menambah satu lagi lapisan pada Rumah Sokongan anda! Selama beberapa hari akan datang, cuba cari 3 perkara yang dapat anda berikan pujian kepada anak anda setiap hari. Anda juga boleh memuji ahli keluarga lain yang dewasa. Perhatikan tindak balas mereka!",
     "type": "text"
   },
   {
@@ -17571,7 +17571,7 @@
   },
   {
     "SourceText": "Hello @fields.user_name! Taking care of children can be challenging…even in the best of times. We sometimes do not notice when our children are behaving well. But when they are misbehaving, it can be a nightmare!",
-    "text": "Helo @fields.user_name! Mendidik anak-anak boleh menjadi sesuatu yang mencabar...walaupun pada masa yang terbaik. Kadangkala kita tidak menyedari anak-anak kita berkelakuan baik. Tetapi apabila mereka berkelakuan tidak baik, ini boleh menjadi satu mimpi ngeri!",
+    "text": "Helo @fields.user_name! Mendidik anak-anak boleh menjadi sesuatu yang mencabar walaupun pada masa yang terbaik. Kadangkala kita tidak menyedari anak-anak kita berkelakuan baik. Tetapi apabila mereka berkelakuan tidak baik, ini boleh menjadi satu mimpi ngeri!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -18225,24 +18225,24 @@
   },
   {
     "SourceText": "Well done for Taking a Pause @fields.user_name! You have completed your second parenting tip - learning how to manage stress. Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah melengkapkan tip keibubapaan kedua anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah melengkapkan tip keibubapaan kedua anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila masa anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan memberi perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Well done for Taking a Pause. You have completed your second parenting tip - learning how to manage stress. Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika. Anda telah melengkapkan tip keibubapaan kedua anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika. Anda telah melengkapkan tip keibubapaan kedua anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila masa anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan memberi perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text"
   },
   {
     "SourceText": "Well done for Taking a Pause @fields.user_name! You have added your second layer to your House of Support - learning how to manage stress. Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah lapisan kedua pada Rumah Sokongan anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika @fields.user_name! Anda telah menambah lapisan kedua pada Rumah Sokongan anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila masa anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan memberi perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Well done for Taking a Pause. You have added your second layer to your House of Support - learning how to manage stress. Over the next few days, try taking a pause whenever you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Child!",
-    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah lapisan kedua pada Rumah Sokongan anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan membawa perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
+    "text": "Syabas kerana Berhenti Seketika. Anda telah menambah lapisan kedua pada Rumah Sokongan anda - belajar cara untuk mengurus tekanan. Untuk beberapa hari akan datang, cuba berhenti seketika pada bila-bila masa anda merasa tertekan. Ia memberi anda peluang untuk menjadi lebih tenang. Walaupun hanya beberapa kali bernafas dengan dalam atau merasakan tanah di bawah kaki anda, ia akan memberi perbezaan. Anda juga boleh Berhenti Seketika dengan Anak anda!",
     "type": "text"
   },
   {
@@ -20528,7 +20528,7 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Were you able to give your child or teen  instructions?",
-    "text": "Hai @fields.user_name! Adakah anda boleh memberi arahan kepada anak atau anak remaja anda?",
+    "text": "Hai @fields.user_name! Adakah anda boleh memberi arahan kepada anak remaja anda?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -20640,7 +20640,7 @@
   },
   {
     "SourceText": "Well done, great job for remembering @fields.user_name. How did your child or teen respond?",
-    "text": "Syabas, hebat kerana masih ingat @fields.user_name. Bagaimana respon anak kecil atau anak remaja anda?",
+    "text": "Syabas! Hebat kerana anda masih ingat, @fields.user_name. Bagaimana respon anak remaja anda?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -21509,7 +21509,7 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Were you able to have a conversation with your child or teen about COVID-19?",
-    "text": "Hai @fields.user_name! Adakah anda dapat berbual dengan anak kecil atau anak remaja anda tentang COVID-19?",
+    "text": "Hai @fields.user_name! Adakah anda dapat berbual dengan anak remaja anda tentang COVID-19?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -22580,7 +22580,7 @@
   },
   {
     "SourceText": "Children and teens are spending a lot more time online. Here is a comic on how you can create safe and healthy online habits like scheduling time online and offline.",
-    "text": "Kini anak kecil dan anak remaja meluangkan lebih banyak masa dalam talian. Berikut ialah komik tentang cara anda dapat mewujudkan tabiat dalam talian yang selamat dan sihat seperti menjadualkan masa dalam talian dan luar talian.",
+    "text": "Kini anak remaja meluangkan lebih banyak masa dalam talian. Berikut ialah komik tentang cara anda dapat mewujudkan sikap dalam talian yang selamat dan sihat seperti menjadualkan masa di dalam dan luar talian.",
     "type": "text"
   },
   {
