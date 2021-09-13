@@ -8749,37 +8749,37 @@
   },
   {
     "SourceText": "baby",
-    "text": "bayi",
+    "text": "Bayi",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
     "SourceText": "teen",
-    "text": "remaja",
+    "text": "Remaja",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
     "SourceText": "adult",
-    "text": "dewasa",
+    "text": "Dewasa",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
     "SourceText": "other",
-    "text": "lain-lain",
+    "text": "Lain-lain",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
     "SourceText": "teenager",
-    "text": "remaja",
+    "text": "Remaja",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   {
     "SourceText": "young child",
-    "text": "anak kecil",
+    "text": "Anak kecil",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
