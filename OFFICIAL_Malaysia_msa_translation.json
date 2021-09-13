@@ -2229,7 +2229,7 @@
   },
   {
     "SourceText": "Use physical and verbal support to make your child feel accepted and loved. A hug or saying, \"I understand,\" can mean a lot. Remind your child that you are there for them and that they can always talk to you. ",
-    "text": "Gunakan sokongan fizikal dan lisan untuk membuat anak anda merasa diterima dan disayangi. Pelukan atau berkata, \"Saya faham,\" sangat bermakna. Ingatkan anak anda bahawa anda ada untuk mereka dan mereka boleh selalu bercakap dengan anda. ",
+    "text": "Gunakan sokongan fizikal dan lisan untuk membuat anak anda merasa diterima dan disayangi. Pelukan atau berkata, \"Ibu/bapa faham,\" sangat bermakna. Ingatkan anak anda bahawa anda ada untuk mereka dan mereka boleh selalu bercakap dengan anda. ",
     "type": "text"
   },
   {
@@ -4709,7 +4709,7 @@
   },
   {
     "SourceText": "• Turn on SafeSearch on your browser to filter adult content.",
-    "text": "• Hidupkan aplikasi SafeSearch (carian selamat) pada pelayar anda untuk menapis kandungan yang dikhaskan untuk orang dewasa.",
+    "text": "• Hidupkan aplikasi carian selamat (SafeSearch) pada pelayar anda untuk menapis kandungan yang dikhaskan untuk orang dewasa.",
     "type": "text"
   },
   {
@@ -11101,7 +11101,7 @@
   },
   {
     "SourceText": "It is always important when establishing rules and routines  as a family to consider the age of each child, so you can come up with age-appropriate routines. This is most important for bedtime, time to come home/play, household chores. ",
-    "text": "Ianya selalu penting ketika menetapkan peraturan dan rutin sebagai satu keluarga dengan mempertimbangkan usia setiap anak, jadi anda boleh membuat rutin yang bersesuaian dengan usia. Ini adalah sangat penting untuk waktu tidur, waktu untuk pulang ke rumah/bermain, kerja rumah. ",
+    "text": "Ianya selalu penting ketika menetapkan peraturan dan rutin sebagai satu keluarga dengan mempertimbangkan usia setiap anak, jadi anda boleh membuat rutin yang bersesuaian dengan usia. Ini adalah sangat penting untuk waktu tidur, waktu untuk pulang ke rumah atau bermain, dan kerja rumah. ",
     "type": "text"
   },
   {
@@ -11536,7 +11536,7 @@
   },
   {
     "SourceText": "Please select another number if you want to learn more about talking about emotions:",
-    "text": "Sila pilih nombor lain jika anda ingin mengetahui lebih lanjut tentang bercakap tentang emosi:",
+    "text": "Sila pilih nombor lain jika anda ingin mengetahui lebih lanjut tentang bercakap mengenai emosi:",
     "type": "text"
   },
   {
@@ -12311,7 +12311,7 @@
   },
   {
     "SourceText": "Hello! Our children and teens are now spending a lot more time online. Being connected helps them stay positive…but it also presents risks and dangers.",
-    "text": "Helo! Kini anak dan anak remaja kita menghabiskan lebih banyak masa dalam talian. Berhubung membantu mereka kekal positif ... tetapi juga menimbulkan risiko dan bahaya.",
+    "text": "Helo! Kini anak kecil dan anak remaja kita menghabiskan lebih banyak masa dalam talian. Berhubung membantu mereka kekal positif ... tetapi juga menimbulkan risiko dan bahaya.",
     "type": "text"
   },
   {
@@ -12863,7 +12863,7 @@
   },
   {
     "SourceText": "• Draw a map of your child or teen’s community, with pictures of all the main places like streets, your house, school, shops, places your teen visits...",
-    "text": "• Lukiskan peta komuniti anak atau remaja anda, dengan gambar-gambar semua tempat utama seperti jalan, rumah anda, sekolah, kedai, tempat-tempat yang dikunjungi anak remaja anda...",
+    "text": "• Lukiskan peta komuniti anak atau anak remaja anda, dengan gambar-gambar semua tempat utama seperti jalan, rumah anda, sekolah, kedai, tempat-tempat yang dikunjungi anak remaja anda...",
     "type": "text"
   },
   {
@@ -13235,7 +13235,7 @@
   },
   {
     "SourceText": "My children felt it was unfair that they have to follow the rule while I don’t have to follow it",
-    "text": "Anak-anak saya berasa tidak adil mereka mengikut peraturan tersebut manakala saya tidak perlu mengikutinya",
+    "text": "Anak-anak saya berasa tidak adil kerana mereka perlu mengikut peraturan tersebut sedangkan saya tidak perlu mengikutinya.",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -13247,7 +13247,7 @@
   },
   {
     "SourceText": "My partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen",
-    "text": "Pasangan saya berasa tidak selesa, kerana mereka berasa mereka seharusnya menjadi orang yang menetapkan peraturan, bukan anak atau anak remaja",
+    "text": "Pasangan saya rasa tidak selesa kerana mereka yang seharusnya menjadi orang yang menetapkan peraturan bukan anak remaja kami",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -13799,7 +13799,7 @@
   },
   {
     "SourceText": "my children felt it was unfair that they have to follow the rule while i don’t have to follow it",
-    "text": "anak-anak saya berasa tidak adil mereka mengikut peraturan tersebut manakala saya tidak perlu mengikutinya",
+    "text": "Anak-anak saya berasa tidak adil kerana mereka perlu mengikut peraturan tersebut sedangkan saya tidak perlu mengikutinya.",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -13811,7 +13811,7 @@
   },
   {
     "SourceText": "my partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen",
-    "text": "pasangan saya berasa tidak selesa, kerana mereka berasa mereka seharusnya menjadi orang yang menetapkan peraturan, bukan anak atau anak remaja",
+    "text": "pasangan saya rasa tidak selesa kerana mereka yang seharusnya menjadi orang yang menetapkan peraturan bukan anak remaja kami",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
@@ -14820,7 +14820,7 @@
   },
   {
     "SourceText": "Use physical and verbal support to make @fields.child_nickname feel accepted and loved. A hug or saying, \"I understand,\" can mean a lot. Remind @fields.child_nickname that you are there for them and that they can always talk to you. ",
-    "text": "Gunakan sokongan fizikal dan lisan untuk membuatkan @fields.child_nickname merasa diterima dan disayangi. Pelukan atau berkata, \"Saya faham,\" boleh menjadi sangat bermakna. Ingatkan @fields.child_nickname bahawa anda akan sentiasa bersama dan bercakap dengan mereka. ",
+    "text": "Gunakan sokongan fizikal dan lisan untuk membuatkan @fields.child_nickname merasa diterima dan disayangi. Pelukan atau berkata, \"Ibu/bapa faham,\" boleh menjadi sangat bermakna. Ingatkan @fields.child_nickname bahawa anda akan sentiasa bersama dan bercakap dengan mereka. ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -18751,7 +18751,7 @@
   },
   {
     "SourceText": "Hi! Were you able to have a conversation with your child or teen about safe and unsafe places of the community?",
-    "text": "Hai! Adakah anda dapat berbual dengan anak atau remaja anda mengenai kawasan yang selamat dan bahaya di dalam komuniti anda?",
+    "text": "Hai! Adakah anda dapat berbual dengan anak atau anak remaja anda mengenai kawasan yang selamat dan bahaya di dalam komuniti anda?",
     "type": "text"
   },
   {
@@ -21432,7 +21432,7 @@
   },
   {
     "SourceText": "When we take a pause before responding, it helps us to calm down and respond better. Next time your child or teen  makes you angry, try to take a pause first. Even a few deep breaths can make a big difference!",
-    "text": "Apabila kita berhenti seketika sebelum bertindak balas, ini membantu kita untuk tenang dan bertindak balas dengan lebih baik. Pada kali berikut jika anak kecil atau anak remaja anda membuat anda marah, cuba berhenti seketika. Tarik nafas beberapa kali dapat menghasilkan perbezaan yang besar!",
+    "text": "Apabila kita berhenti seketika sebelum bertindak balas, ini membantu kita untuk tenang dan bertindak balas dengan lebih baik. Pada kali berikutnya jika anak kecil atau anak remaja anda membuat anda marah, cuba berhenti seketika. Tarik nafas beberapa kali dapat menghasilkan perbezaan yang besar!",
     "type": "text"
   },
   {
@@ -21987,7 +21987,7 @@
   },
   {
     "SourceText": "Parent: “In 5 minutes it will be time to give me back the phone and start your school work.” ",
-    "text": "Ibu/bapa: “Dalam masa 5 minit, tolong beri telefon itu semula kepada saya dan mula buat kerja rumah kamu.” ",
+    "text": "Ibu/bapa: “Dalam masa 5 minit, tolong beri telefon itu semula kepada ibu/bapa dan mula buat kerja rumah kamu.” ",
     "type": "text"
   },
   {
