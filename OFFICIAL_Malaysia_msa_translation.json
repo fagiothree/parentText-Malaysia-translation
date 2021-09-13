@@ -13235,7 +13235,7 @@
   },
   {
     "SourceText": "My children felt it was unfair that they have to follow the rule while I don’t have to follow it",
-    "text": "Anak-anak saya berasa tidak adil mereka mengikut peraturan tersebut manakala saya tidak perlu mengikutinya",
+    "text": "Anak-anak saya berasa tidak adil kerana mereka perlu mengikut peraturan tersebut sedangkan saya tidak perlu mengikutinya.",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -13799,7 +13799,7 @@
   },
   {
     "SourceText": "my children felt it was unfair that they have to follow the rule while i don’t have to follow it",
-    "text": "anak-anak saya berasa tidak adil mereka mengikut peraturan tersebut manakala saya tidak perlu mengikutinya",
+    "text": "Anak-anak saya berasa tidak adil kerana mereka perlu mengikut peraturan tersebut sedangkan saya tidak perlu mengikutinya.",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
