@@ -7294,7 +7294,7 @@
   },
   {
     "SourceText": "@results.count  Praising your children",
-    "text": "@results.count  Memuji anak-anak anda",
+    "text": "@results.count  Memuji Anak-anak Anda",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
   },
