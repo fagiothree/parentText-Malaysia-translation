@@ -17571,7 +17571,7 @@
   },
   {
     "SourceText": "Hello @fields.user_name! Taking care of children can be challenging…even in the best of times. We sometimes do not notice when our children are behaving well. But when they are misbehaving, it can be a nightmare!",
-    "text": "Helo @fields.user_name! Mendidik anak-anak boleh menjadi sesuatu yang mencabar...walaupun pada masa yang terbaik. Kadangkala kita tidak menyedari anak-anak kita berkelakuan baik. Tetapi apabila mereka berkelakuan tidak baik, ini boleh menjadi satu mimpi ngeri!",
+    "text": "Helo @fields.user_name! Mendidik anak-anak boleh menjadi sesuatu yang mencabar walaupun pada masa yang terbaik. Kadangkala kita tidak menyedari anak-anak kita berkelakuan baik. Tetapi apabila mereka berkelakuan tidak baik, ini boleh menjadi satu mimpi ngeri!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
