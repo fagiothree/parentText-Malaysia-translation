@@ -7288,7 +7288,7 @@
   },
   {
     "SourceText": "@results.count  Giving positive instructions",
-    "text": "@results.count  Memberi arahan positif",
+    "text": "@results.count  Memberi Arahan Positif",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)"
   },
