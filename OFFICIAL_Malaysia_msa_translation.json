@@ -21509,7 +21509,7 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Were you able to have a conversation with your child or teen about COVID-19?",
-    "text": "Hai @fields.user_name! Adakah anda dapat berbual dengan anak kecil atau anak remaja anda tentang COVID-19?",
+    "text": "Hai @fields.user_name! Adakah anda dapat berbual dengan anak remaja anda tentang COVID-19?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
