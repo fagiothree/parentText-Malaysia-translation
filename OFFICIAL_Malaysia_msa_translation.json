@@ -17622,7 +17622,7 @@
   },
   {
     "SourceText": "Hello @fields.user_name! Our children and teens are now spending a lot more time online. Being connected helps them stay positive…but it also presents risks and dangers.",
-    "text": "Helo @fields.user_name!  Kini anak remaja kita meluangkan lebih banyak masa dalam talian. Terhubung membantu mereka kekal positif, tetapi juga menimbulkan risiko dan bahaya.",
+    "text": "Helo @fields.user_name! Kini anak remaja kita meluangkan lebih banyak masa dalam talian. Terhubung membantu mereka kekal positif, tetapi juga menimbulkan risiko dan bahaya.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
