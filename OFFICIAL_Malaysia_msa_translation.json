@@ -20528,7 +20528,7 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Were you able to give your child or teen  instructions?",
-    "text": "Hai @fields.user_name! Adakah anda boleh memberi arahan kepada anak atau anak remaja anda?",
+    "text": "Hai @fields.user_name! Adakah anda boleh memberi arahan kepada anak remaja anda?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
