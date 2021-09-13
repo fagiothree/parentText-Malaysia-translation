@@ -11016,7 +11016,7 @@
   },
   {
     "SourceText": "The first one to guess it right becomes the next leader who will choose or sing the next song.",
-    "text": "Orang yang pertama meneka dengan betul akan menjadi ketua yang seterusnya yang akan dipilih dan menyanyikan lagu seterusnya.",
+    "text": "Orang pertama yang meneka dengan betul akan menjadi ketua seterusnya dan menyanyikan lagu lain.",
     "type": "text"
   },
   {
@@ -11031,7 +11031,7 @@
   },
   {
     "SourceText": "The first one to guess it right becomes the next leader who will choose or sing the next song. ",
-    "text": "Orang yang pertama meneka dengan betul akan menjadi ketua yang seterusnya yang akan dipilih dan menyanyikan lagu seterusnya. ",
+    "text": "Orang pertama yang meneka dengan betul akan menjadi ketua seterusnya dan menyanyikan lagu lain. ",
     "type": "text"
   },
   {
@@ -12656,7 +12656,7 @@
   },
   {
     "SourceText": "Set aside a specific time to spend One-on-One Time with your teen each day. Choose a time when you and your teen will not be interrupted and when your teen does not have something else that they want to do, like watching TV or playing with phones.",
-    "text": "Tetapkan masa khusus untuk diluangkan Masa Bersama Satu dengan Satu bersama anak remaja anda setiap hari. Pilih masa yang anda dan anak remaja anda tidak akan terganggu dan apabila anak remaja anda tidak mempunyai perkara lain yang mereka ingin lakukan, seperti menonton TV atau bermain dengan telefon.",
+    "text": "Tetapkan masa khusus untuk diluangkan Masa Bersama Seorang-dengan-Seorang dengan anak remaja anda setiap hari. Pilih masa yang anda dan anak remaja anda tidak akan terganggu dan apabila anak remaja anda tidak mempunyai perkara lain yang mereka ingin lakukan, seperti menonton TV atau bermain dengan telefon.",
     "type": "text"
   },
   {
@@ -15992,24 +15992,24 @@
   },
   {
     "SourceText": "Hello @fields.user_name! This is a stressful time, especially for fathers. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.",
-    "text": "Helo @fields.user_name! Ini merupakan masa yang banyak memberi tekanan terutamanya kepada para bapa. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang terbaik. Mengambil masa untuk menjaga diri kita sendiri akan membantu kita menjaga anak-anak kita.",
+    "text": "Helo @fields.user_name! Ini merupakan masa yang banyak memberi tekanan terutamanya kepada para bapa. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang terbaik. Mengambil masa untuk menjaga diri sendiri akan membantu kita menjaga anak-anak.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hello @fields.user_name! This is a stressful time, especially for mothers. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.",
-    "text": "Helo @fields.user_name! Ini merupakan masa yang banyak memberi tekanan terutamanya kepada para ibu. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang terbaik. Mengambil masa untuk menjaga diri kita sendiri akan membantu kita menjaga anak-anak kita.",
+    "text": "Helo @fields.user_name! Ini merupakan masa yang banyak memberi tekanan terutamanya kepada para ibu. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang terbaik. Mengambil masa untuk menjaga diri sendiri akan membantu kita menjaga anak-anak.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hello! This is a stressful time, especially for fathers. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.",
-    "text": "Helo! Ini merupakan masa yang banyak memberi tekanan terutamanya kepada para bapa. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang terbaik. Mengambil masa untuk menjaga diri kita sendiri akan membantu kita menjaga anak-anak kita.",
+    "text": "Helo! Ini merupakan masa yang banyak memberi tekanan terutamanya kepada para bapa. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang terbaik. Mengambil masa untuk menjaga diri sendiri akan membantu kita menjaga anak-anak.",
     "type": "text"
   },
   {
     "SourceText": "Hello! This is a stressful time, especially for mothers. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.",
-    "text": "Helo! Ini merupakan masa yang banyak memberi tekanan terutamanya kepada para ibu. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang terbaik. Mengambil masa untuk menjaga diri kita sendiri akan membantu kita menjaga anak-anak kita.",
+    "text": "Helo! Ini merupakan masa yang banyak memberi tekanan terutamanya kepada para ibu. Apabila kita tertekan atau marah, kita tidak dapat membuat keputusan yang terbaik. Mengambil masa untuk menjaga diri sendiri akan membantu kita menjaga anak-anak.",
     "type": "text"
   },
   {
@@ -18077,13 +18077,13 @@
   },
   {
     "SourceText": "Well done @fields.user_name! You have added another layer to your House of Support. Over the next few days, try spending at least 5 minutes of One-on-One Time with your teen. Quality time is the best gift that you can ever give your child!",
-    "text": "Syabas @fields.user_name! Anda telah menambahkan satu lapisan lagi pada Rumah Sokongan anda. Beberapa hari akan datang, cuba luangkan sekurang-kurangnya 5 minit untuk Masa bersama Seorang dengan Seorang bersama anak remaja anda. Masa berkualiti adalah hadiah paling berharga yang boleh anda berikan kepada anak anda!",
+    "text": "Syabas @fields.user_name! Anda telah menambahkan satu lapisan lagi pada Rumah Sokongan anda. Beberapa hari akan datang, cuba luangkan sekurang-kurangnya 5 minit untuk Masa Bersama Seorang-dengan-Seorang dengan anak remaja anda. Masa berkualiti adalah hadiah paling berharga yang boleh anda berikan kepada anak anda!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Well done! You have added another layer to your House of Support. Over the next few days, try spending at least 5 minutes of One-on-One Time with your teen. Quality time is the best gift that you can ever give your child!",
-    "text": "Syabas! Anda telah menambahkan satu lapisan lagi pada Rumah Sokongan anda. Beberapa hari akan datang, cuba luangkan sekurang-kurangnya 5 minit untuk Masa bersama Seorang dengan Seorang bersama anak remaja anda. Masa berkualiti adalah hadiah paling berharga yang boleh anda berikan kepada anak anda!",
+    "text": "Syabas! Anda telah menambahkan satu lapisan lagi pada Rumah Sokongan anda. Beberapa hari akan datang, cuba luangkan sekurang-kurangnya 5 minit untuk Masa Bersama Seorang-dengan-Seorang dengan anak remaja anda. Masa berkualiti adalah hadiah paling berharga yang boleh anda berikan kepada anak anda!",
     "type": "text"
   },
   {
