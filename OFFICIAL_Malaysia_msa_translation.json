@@ -13247,7 +13247,7 @@
   },
   {
     "SourceText": "My partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen",
-    "text": "Pasangan saya berasa tidak selesa, kerana mereka berasa mereka seharusnya menjadi orang yang menetapkan peraturan, bukan anak atau anak remaja",
+    "text": "Pasangan saya rasa tidak selesa kerana mereka yang seharusnya menjadi orang yang menetapkan peraturan bukan anak remaja kami",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -13811,7 +13811,7 @@
   },
   {
     "SourceText": "my partner felt uncomfortable, because they feel they should be the one establishing the rule, not the child or teen",
-    "text": "pasangan saya berasa tidak selesa, kerana mereka berasa mereka seharusnya menjadi orang yang menetapkan peraturan, bukan anak atau anak remaja",
+    "text": "pasangan saya rasa tidak selesa kerana mereka yang seharusnya menjadi orang yang menetapkan peraturan bukan anak remaja kami",
     "type": "arguments",
     "note": "This is an argument and it may be used to identify a corresponding quick reply"
   },
