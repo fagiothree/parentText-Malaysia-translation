@@ -20640,7 +20640,7 @@
   },
   {
     "SourceText": "Well done, great job for remembering @fields.user_name. How did your child or teen respond?",
-    "text": "Syabas, hebat kerana masih ingat @fields.user_name. Bagaimana respon anak kecil atau anak remaja anda?",
+    "text": "Syabas! Hebat kerana anda masih ingat, @fields.user_name. Bagaimana respon anak remaja anda?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
