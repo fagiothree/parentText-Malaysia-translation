@@ -12666,7 +12666,7 @@
   },
   {
     "SourceText": "Here is a comic about spending one-on-one time with your teen!",
-    "text": "Berikut ialah komik tentang meluangkan Masa Bersama Seorang dengan Seorang bersama anak remaja anda!",
+    "text": "Berikut ialah komik tentang meluangkan Masa Bersama Seorang-dengan-Seorang bersama anak remaja anda!",
     "type": "text"
   },
   {
@@ -18066,13 +18066,13 @@
   },
   {
     "SourceText": "Well done @fields.user_name! You have added another skill to your Parenting Toolkit. Over the next few days, try spending at least 5 minutes of One-on-One Time with your teen. Quality time is the best gift that you can ever give your child!",
-    "text": "Syabas @fields.user_name! Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda. Beberapa hari akan datang, cuba luangkan sekurang-kurangnya 5 minit untuk Masa bersama Seorang dengan Seorang bersama anak remaja anda. Masa berkualiti adalah hadiah paling berharga yang boleh anda berikan kepada anak anda!",
+    "text": "Syabas @fields.user_name! Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda. Beberapa hari akan datang, cuba luangkan sekurang-kurangnya 5 minit untuk Masa bersama Seorang-dengan-Seorang bersama anak remaja anda. Masa berkualiti adalah hadiah paling berharga yang boleh anda berikan kepada anak anda!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Well done! You have added another skill to your Parenting Toolkit. Over the next few days, try spending at least 5 minutes of One-on-One Time with your teen. Quality time is the best gift that you can ever give your child!",
-    "text": "Syabas! Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda. Beberapa hari akan datang, cuba luangkan sekurang-kurangnya 5 minit untuk Masa bersama Seorang dengan Seorang bersama anak remaja anda. Masa berkualiti adalah hadiah paling berharga yang boleh anda berikan kepada anak anda!",
+    "text": "Syabas! Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda. Beberapa hari akan datang, cuba luangkan sekurang-kurangnya 5 minit untuk Masa bersama Seorang-dengan-Seorang bersama anak remaja anda. Masa berkualiti adalah hadiah paling berharga yang boleh anda berikan kepada anak anda!",
     "type": "text"
   },
   {
