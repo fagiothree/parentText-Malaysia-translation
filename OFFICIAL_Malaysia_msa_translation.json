@@ -1736,7 +1736,7 @@
   },
   {
     "SourceText": "Together think of ways to make it even more fun. Can you jog to a certain point? Take turns in being the coach? Motivate each other with a small free reward? ",
-    "text": "Fikir cara untuk melakukannya bersama-sama dengan lebih seronok. Bolehkah anda joging untuk satu titik tertentu? Ambil giliran untuk menjadi jurulatih? Beri galakkan dengan sedikit ganjaran kecil? ",
+    "text": "Fikir cara untuk melakukannya bersama-sama dengan lebih seronok. Bolehkah anda joging untuk titik tertentu? Ambil giliran untuk menjadi jurulatih? Beri galakkan dengan sedikit ganjaran kecil? ",
     "type": "text"
   },
   {
@@ -4979,7 +4979,7 @@
   },
   {
     "SourceText": "Today's Tip is about how we can support our teens when they experience really difficult situations. ",
-    "text": "Tip hari ini adalah tentang bagaimana kita dapat menyokong remaja kita ketika mereka mengalami situasi yang sangat sukar. ",
+    "text": "Tip hari ini adalah tentang bagaimana kita dapat menyokong anak remaja ketika mereka mengalami situasi yang sangat sukar. ",
     "type": "text"
   },
   {
@@ -5424,7 +5424,7 @@
   },
   {
     "SourceText": "Hi! Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.",
-    "text": "Hai! Mengurus kemarahan boleh menjadi sukar. Berhenti sebentar apabila anda rasa sedang marah terhadap anak-anak atau orang lain.",
+    "text": "Hai! Mengurus kemarahan boleh menjadi sukar. Berhenti seketika apabila anda rasa sedang marah terhadap anak-anak atau orang lain.",
     "type": "text"
   },
   {
@@ -5674,7 +5674,7 @@
   },
   {
     "SourceText": "Hi! Were you able to spend 5 minutes or more of One-on-One Time with your children today?",
-    "text": "Hai! Adakah anda telah meluangkan 5 minit atau lebih untuk Masa Seorang-dengan-Seorang dengan anak remaja anda hari ini?",
+    "text": "Hai! Adakah anda telah meluangkan 5 minit atau lebih untuk Masa Bersama Seorang-dengan-Seorang dengan anak remaja anda hari ini?",
     "type": "text"
   },
   {
@@ -10471,7 +10471,7 @@
   },
   {
     "SourceText": "Every time you take a pause is an act of kindness. Be kind to yourself and your family today!",
-    "text": "Setiap kali anda berhenti sekejap, ia merupakan perbuatan yang baik hati. Berbuat baik terhadap diri sendiri dan keluarga anda bermula daripada hari ini!",
+    "text": "Setiap kali anda berhenti seketika, ia merupakan perbuatan yang baik hati. Berbuat baik terhadap diri sendiri dan keluarga anda bermula daripada hari ini!",
     "type": "text"
   },
   {
@@ -12316,7 +12316,7 @@
   },
   {
     "SourceText": "Our children and teens are now spending a lot more time online. Being connected helps them stay positive…but it also presents risks and dangers.",
-    "text": "Kini anak dan anak remaja kita menghabiskan lebih banyak masa dalam talian. Berhubung membantu mereka kekal positif ... tetapi juga menimbulkan risiko dan bahaya.",
+    "text": "Kini kanak-kanak dan remaja kita menghabiskan lebih banyak masa dalam talian. Berhubung membantu mereka kekal positif ... tetapi juga menimbulkan risiko dan bahaya.",
     "type": "text"
   },
   {
@@ -12396,7 +12396,7 @@
   },
   {
     "SourceText": "Hello! We love our children and teenagers, but stress from caregiving and money can make us angry. Here is how we can maintain control and keep calm.",
-    "text": "Helo! Kita sayangkan anak dan anak remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Ini ialah cara kita boleh mengawal dan kekal tenang.",
+    "text": "Helo! Kita sayangkan kanak-kanak dan remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Ini ialah cara kita boleh mengawal dan kekal tenang.",
     "type": "text"
   },
   {
@@ -14701,7 +14701,7 @@
   },
   {
     "SourceText": "There are no bad children...only difficult behaviours! All children misbehave but these tips can help.",
-    "text": "Tiada kanak-kanak yang nakal... hanya tingkah laku yang sukar! Semua kanak-kanak nakal, tetapi tip ini dapat membantu.",
+    "text": "Perkataan kanak-kanak yang nakal... hanya tingkah laku yang sukar! Semua kanak-kanak nakal, tetapi tip ini dapat membantu.",
     "type": "text"
   },
   {
@@ -15041,7 +15041,7 @@
   },
   {
     "SourceText": "Hello @fields.user_name! We love our children and teenagers, but stress from caregiving and money can make us angry. Here is how we can maintain control and keep calm.",
-    "text": "Helo @fields.user_name! Kita sayangkan anak dan anak remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
+    "text": "Helo @fields.user_name! Kita sayangkan kanak-kanak dan remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
