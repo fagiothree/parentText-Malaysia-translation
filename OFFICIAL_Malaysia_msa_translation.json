@@ -12396,7 +12396,7 @@
   },
   {
     "SourceText": "Hello! We love our children and teenagers, but stress from caregiving and money can make us angry. Here is how we can maintain control and keep calm.",
-    "text": "Helo! Kita sayangkan anak dan anak remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Ini ialah cara kita boleh mengawal dan kekal tenang.",
+    "text": "Helo! Kita sayangkan kanak-kanak dan remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Ini ialah cara kita boleh mengawal dan kekal tenang.",
     "type": "text"
   },
   {
@@ -15041,7 +15041,7 @@
   },
   {
     "SourceText": "Hello @fields.user_name! We love our children and teenagers, but stress from caregiving and money can make us angry. Here is how we can maintain control and keep calm.",
-    "text": "Helo @fields.user_name! Kita sayangkan anak dan anak remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
+    "text": "Helo @fields.user_name! Kita sayangkan kanak-kanak dan remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
