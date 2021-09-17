@@ -5408,8 +5408,18 @@
     "type": "text"
   },
   {
+    "SourceText": "1. Do you have weapons or things  that can be used to hurt others?  Lock them up, hide them or take them out of the home.",
+    "text": "1. Adakah anda mempunyai senjata atau sesuatu yang boleh digunakan untuk mencederakan orang lain? Simpan di tempat yang berkunci, sembunyikan atau keluarkan daripada rumah.",
+    "type": "text"
+  },
+  {
     "SourceText": "3. It’s ok to have your children stay somewhere safe or take them to a place where they can get help.",
     "text": "3. Adalah okey untuk membenarkan anak-anak anda berada di satu tempat yang selamat atau membawa mereka ke satu tempat yang mereka boleh mendapatkan bantuan.",
+    "type": "text"
+  },
+  {
+    "SourceText": "2. It’s ok to have your children stay somewhere safe or take them to a place where they can get help.",
+    "text": "2. Adalah okey untuk membenarkan anak-anak anda berada di satu tempat yang selamat atau membawa mereka ke satu tempat yang mereka boleh mendapatkan bantuan.",
     "type": "text"
   },
   {
