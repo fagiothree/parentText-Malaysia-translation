@@ -5374,7 +5374,7 @@
   },
   {
     "SourceText": "Hello! We love our children and teenagers, but stress from caregiving, money, and COVID-19 can make us angry. Here is how we can maintain control and keep calm.",
-    "text": "Helo! Kita sayang anak-anak dan remaja kita, tetapi tekanan daripada penjagaan, duit, dan COVID-19 boleh menyebabkan kita marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
+    "text": "Helo! Kita sayangkan kanak-kanak dan anak remaja kita, tetapi tekanan daripada penjagaan, duit, dan COVID-19 boleh menyebabkan kita marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
     "type": "text"
   },
   {
@@ -12406,7 +12406,7 @@
   },
   {
     "SourceText": "Hello! We love our children and teenagers, but stress from caregiving and money can make us angry. Here is how we can maintain control and keep calm.",
-    "text": "Helo! Kita sayangkan kanak-kanak dan remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Ini ialah cara kita boleh mengawal dan kekal tenang.",
+    "text": "Helo! Kita sayangkan kanak-kanak dan anak remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Ini ialah cara kita boleh mengawal dan kekal tenang.",
     "type": "text"
   },
   {
@@ -15051,7 +15051,7 @@
   },
   {
     "SourceText": "Hello @fields.user_name! We love our children and teenagers, but stress from caregiving and money can make us angry. Here is how we can maintain control and keep calm.",
-    "text": "Helo @fields.user_name! Kita sayangkan kanak-kanak dan remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
+    "text": "Helo @fields.user_name! Kita sayangkan kanak-kanak dan anak remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
