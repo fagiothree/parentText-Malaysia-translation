@@ -2583,8 +2583,8 @@
     "type": "text"
   },
   {
-    "SourceText": "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe place and walk away for a bit. Check on your baby every 5-10 minutes. ",
-    "text": "Jika anda berasa marah kerana bayi tidak berhenti menangis, tidak mengapa jika anda meninggalkannya secara terlentang di tempat yang selamat dan beredar buat seketika. Periksa bayi anda setiap 5-10 minit. ",
+    "SourceText": "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe place and walk away for a bit. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes. ",
+    "text": "Jika anda berasa marah kerana bayi tidak berhenti menangis, tidak mengapa jika anda meninggalkannya secara terlentang di tempat yang selamat dan beredar buat seketika. Berada dekat dengan bayi di mana anda boleh mengawasinya. Periksa bayi anda setiap 5-10 minit. ",
     "type": "text"
   },
   {
@@ -5454,7 +5454,7 @@
   },
   {
     "SourceText": "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on your baby every 5-10 minutes.",
-    "text": "Sekiranya anda marah kerana bayi anda tidak berhenti menangis, ok jika membiarkan mereka di tempat yang selamat, seperti buaian, dan meninggalkan mereka sebentar. Periksa bayi anda setiap 5-10 minit.",
+    "text": "Sekiranya anda marah kerana bayi anda tidak berhenti menangis, ok jika membiarkan mereka di tempat yang selamat, seperti buaian, dan meninggalkan mereka sebentar. Berada dekat dengan bayi di mana anda boleh mengawasinya. Periksa bayi anda setiap 5-10 minit.",
     "type": "text"
   },
   {
@@ -17790,8 +17790,8 @@
     "type": "text"
   },
   {
-    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on your baby every 5-10 minutes.",
-    "text": "Kami bersimpati kerana anda mendapati ia mencabar.\n Sekiranya anda marah kerana bayi anda tidak berhenti menangis, ok jika membiarkan mereka di tempat yang selamat, seperti buaian, dan meninggalkan mereka sebentar. Periksa bayi anda setiap 5-10 minit.",
+    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes.",
+    "text": "Kami bersimpati kerana anda mendapati ia mencabar.\n Sekiranya anda marah kerana bayi anda tidak berhenti menangis, ok jika membiarkan mereka di tempat yang selamat, seperti buaian, dan meninggalkan mereka sebentar. Berada dekat dengan bayi di mana anda boleh mengawasinya. Periksa bayi anda setiap 5-10 minit.",
     "type": "text"
   },
   {
@@ -18505,8 +18505,8 @@
     "type": "text"
   },
   {
-    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s okay to leave them on their back in a safe place and walk away for a bit and take a quick pause. Taking a pause will help you respond better. Check on your baby every 5-10 minutes.",
-    "text": "Kami bersimpati kerana anda mendapati ia mencabar.\n Jika anda berasa marah kerana bayi tidak berhenti menangis, tidak mengapa jika anda meninggalkannya secara terlentang di tempat yang selamat dan beredar sebentar untuk buang sebarang kekusutan dengan pantas. Berhenti seketika akan membantu anda bertindak balas dengan lebih baik. Periksa bayi anda setiap 5-10 minit.",
+    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s okay to leave them on their back in a safe place and walk away for a bit and take a quick pause. Taking a pause will help you respond better. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes.",
+    "text": "Kami bersimpati kerana anda mendapati ia mencabar.\n Jika anda berasa marah kerana bayi tidak berhenti menangis, tidak mengapa jika anda meninggalkannya secara terlentang di tempat yang selamat dan beredar sebentar untuk buang sebarang kekusutan dengan pantas. Berhenti seketika akan membantu anda bertindak balas dengan lebih baik. Berada dekat dengan bayi di mana anda boleh mengawasinya. Periksa bayi anda setiap 5-10 minit.",
     "type": "text"
   },
   {
@@ -20768,8 +20768,8 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on @fields.child_nickname every 5-10 minutes.",
-    "text": "Maaf sekiranya anda mendapati hal ini mencabar. Sekiranya anda marah kerana bayi anda tidak berhenti menangis, tidak mengapa jika membiarkan mereka di tempat yang selamat, seperti dalam buaian, dan meninggalkan mereka sebentar. Periksa @fields.child_nickname setiap 5 -10 minit.",
+    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes.",
+    "text": "Maaf sekiranya anda mendapati hal ini mencabar. Sekiranya anda marah kerana bayi anda tidak berhenti menangis, tidak mengapa jika membiarkan mereka di tempat yang selamat, seperti dalam buaian, dan meninggalkan mereka sebentar. Berada dekat dengan bayi di mana anda boleh mengawasinya. Periksa @fields.child_nickname setiap 5 -10 minit.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -21093,26 +21093,14 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "It is completely normal to experience this, it can be really hard to stay calm when @fields.child_nickname'sis crying but do not give up! Try to think of something that you can do that might help you, like taking a couple deep breaths. This can help reduce stress and clear your mind. ",
+    "SourceText": "It is completely normal to experience this, it can be really hard to stay calm when @fields.child_nickname is crying but do not give up! Try to think of something that you can do that might help you, like taking a couple deep breaths. This can help reduce stress and clear your mind. ",
     "text": "Pengalaman ini adalah suatu yang biasa, sangat sukar untuk kekal tenang apabila @fields.child_nickname menangis tetapi jangan putus asa! Cuba fikirkan sesuatu yang boleh anda lakukan yang dapat membantu seperti menarik nafas yang dalam dua kali. Ini dapat membantu mengurangkan tekanan dan mengosongkan minda anda. ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because @fields.child_nickname won’t stop crying, it’s okay to leave them on their back in a safe place and walk away for a bit and take a quick pause. Taking a pause will help you respond better. Check on @fields.child_nickname every 5-10 minutes.",
-    "text": "Maaf sekiranya anda mendapati hal ini mencabar. Jika anda berasa marah kerana @fields.child_nickname tidak berhenti menangis, tidak mengapa jika anda meninggalkannya secara terlentang di tempat yang selamat dan beredar sebentar untuk berhenti seketika dengan pantas. Berhenti seketika akan membantu anda bertindak balas dengan lebih baik. Periksa @fields.child_nickname setiap 5-10 minit.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
-  },
-  {
-    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because @fields.child_nickname won’t stop crying, it’s okay to leave them on their back in a safe place and walk away for a bit and take a quick pause. Taking a pause will help you respond better. Check on your baby every 5-10 minutes.",
-    "text": "Maaf sekiranya anda mendapati hal ini mencabar. Jika anda berasa marah kerana @fields.child_nickname tidak berhenti menangis, tidak mengapa jika anda meninggalkannya secara terlentang di tempat yang selamat dan beredar sebentar untuk berhenti seketika dengan pantas. Berhenti seketika akan membantu anda bertindak balas dengan lebih baik. Periksa bayi anda setiap 5-10 minit.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
-  },
-  {
-    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s okay to leave them on their back in a safe place and walk away for a bit and take a quick pause. Taking a pause will help you respond better. Check on @fields.child_nickname every 5-10 minutes.",
-    "text": "Maaf sekiranya anda mendapati hal ini mencabar. Jika anda berasa marah kerana bayi tidak berhenti menangis, tidak mengapa jika anda meninggalkannya secara terlentang di tempat yang selamat dan beredar sebentar untuk berhenti seketika dengan pantas. Berhenti seketika akan membantu anda bertindak balas dengan lebih baik. Periksa @fields.child_nickname setiap 5 -10 minit.",
+    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because @fields.child_nickname won’t stop crying, it’s okay to leave them on their back in a safe place and walk away for a bit and take a quick pause. Taking a pause will help you respond better. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes.",
+    "text": "Maaf sekiranya anda mendapati hal ini mencabar. Jika anda berasa marah kerana @fields.child_nickname tidak berhenti menangis, tidak mengapa jika anda meninggalkannya secara terlentang di tempat yang selamat dan beredar sebentar untuk berhenti seketika dengan pantas. Berhenti seketika akan membantu anda bertindak balas dengan lebih baik. Berada dekat dengan bayi di mana anda boleh mengawasinya. Periksa @fields.child_nickname setiap 5-10 minit.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
