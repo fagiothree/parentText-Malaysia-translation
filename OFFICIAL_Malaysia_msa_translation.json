@@ -1919,7 +1919,7 @@
   },
   {
     "SourceText": "There are no bad children...only difficult behaviours! All children misbehave but these tips can help",
-    "text": "Tidak ada anak yang nakal... hanya tingkah laku yang sukar! Semua kanak-kanak nakal, tetapi tip ini dapat membantu",
+    "text": "Tiada kanak-kanak yang teruk perangainya... hanya tingkah laku yang sukar! Semua kanak-kanak nakal, tetapi tip ini dapat membantu.",
     "type": "text"
   },
   {
@@ -2159,7 +2159,7 @@
   },
   {
     "SourceText": "Be open to your children. They get stressed too - sometimes from different things from you. Allow them to express how they feel and accept their feelings. Try to listen to them and think about how it must feel for them.",
-    "text": "Bersikap terbuka kepada anak-anak anda. Mereka juga tertekan - kadang-kadang dari perkara yang berbeza dari anda. Benarkan mereka untuk meluahkan apa yang mereka rasai dan terima perasaan tersebut. Cuba dengar dan fikir apa yang mereka rasai.",
+    "text": "Bersikap terbuka kepada anak-anak anda. Mereka juga tertekan - kadang-kadang dari perkara yang berbeza dari anda. Benarkan mereka untuk meluahkan apa yang mereka rasai dan iktiraf perasaan tersebut. Cuba dengar dan fikir apa yang mereka rasai.",
     "type": "text"
   },
   {
@@ -3819,7 +3819,7 @@
   },
   {
     "SourceText": "All children develop at different rates. But there are some things that we expect children to be able to do at an age. These are called ‘development’ milestones.",
-    "text": "Setiap kanak-kanak mengalami tahap perkembangan pada kadar yang berbeza. Tetapi terdapat beberapa perkara yang kita jangkakan boleh dilakukan oleh kanak-kanak pada umur tertentu. Ini dikenali sebagai penanda aras 'perkembangan'.",
+    "text": "Semua kanak-kanak membesar pada kadar yang berbeza. Tetapi terdapat beberapa perkara yang kita jangkakan boleh dilakukan oleh kanak-kanak pada umur tertentu. Ini dikenali sebagai penanda aras 'perkembangan'.",
     "type": "text"
   },
   {
@@ -5374,7 +5374,7 @@
   },
   {
     "SourceText": "Hello! We love our children and teenagers, but stress from caregiving, money, and COVID-19 can make us angry. Here is how we can maintain control and keep calm.",
-    "text": "Helo! Kita sayang anak-anak dan remaja kita, tetapi tekanan daripada penjagaan, duit, dan COVID-19 boleh menyebabkan kita marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
+    "text": "Helo! Kita sayangkan kanak-kanak dan anak remaja kita, tetapi tekanan daripada penjagaan, duit, dan COVID-19 boleh menyebabkan kita marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
     "type": "text"
   },
   {
@@ -6000,7 +6000,7 @@
   },
   {
     "SourceText": "Does not apply",
-    "text": "Tidak boleh diterima pakai",
+    "text": "Tidak berkenaan",
     "type": "quick_replies",
     "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
@@ -11401,12 +11401,12 @@
   },
   {
     "SourceText": "All children develop at different rates. Here's a video to help you understand what to expect from your children.",
-    "text": "Setiap kanak-kanak mengalami tahap perkembangan pada kadar yang berbeza. Ini ialah video untuk membantu anda memahami perkara yang boleh dijangkakan daripada anak anda.",
+    "text": "Semua kanak-kanak membesar pada kadar yang berbeza. Ini ialah video untuk membantu anda memahami perkara yang boleh dijangkakan daripada anak anda.",
     "type": "text"
   },
   {
     "SourceText": "All children develop at different rates. Here's an audio message to help you understand what to expect from your children.",
-    "text": "Setiap kanak-kanak mengalami tahap perkembangan pada kadar yang berbeza. Ini ialah pesanan audio untuk membantu anda memahami perkara yang boleh dijangkakan daripada anak anda.",
+    "text": "Semua kanak-kanak membesar pada kadar yang berbeza. Ini ialah pesanan audio untuk membantu anda memahami perkara yang boleh dijangkakan daripada anak anda.",
     "type": "text"
   },
   {
@@ -12406,7 +12406,7 @@
   },
   {
     "SourceText": "Hello! We love our children and teenagers, but stress from caregiving and money can make us angry. Here is how we can maintain control and keep calm.",
-    "text": "Helo! Kita sayangkan kanak-kanak dan remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Ini ialah cara kita boleh mengawal dan kekal tenang.",
+    "text": "Helo! Kita sayangkan kanak-kanak dan anak remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Ini ialah cara kita boleh mengawal dan kekal tenang.",
     "type": "text"
   },
   {
@@ -14711,7 +14711,7 @@
   },
   {
     "SourceText": "There are no bad children...only difficult behaviours! All children misbehave but these tips can help.",
-    "text": "Perkataan kanak-kanak yang nakal... hanya tingkah laku yang sukar! Semua kanak-kanak nakal, tetapi tip ini dapat membantu.",
+    "text": "Tiada kanak-kanak yang teruk perangainya... hanya tingkah laku yang sukar! Semua kanak-kanak nakal, tetapi tip ini dapat membantu.",
     "type": "text"
   },
   {
@@ -15051,7 +15051,7 @@
   },
   {
     "SourceText": "Hello @fields.user_name! We love our children and teenagers, but stress from caregiving and money can make us angry. Here is how we can maintain control and keep calm.",
-    "text": "Helo @fields.user_name! Kita sayangkan kanak-kanak dan remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
+    "text": "Helo @fields.user_name! Kita sayangkan kanak-kanak dan anak remaja kita, tetapi tekanan daripada memberikan penjagaan dan disebabkan wang boleh menimbulkan perasaan marah. Di sini adalah bagaimana kita boleh kekal mengawal diri dan sentiasa tenang.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -19015,13 +19015,13 @@
   },
   {
     "SourceText": "Hi @fields.user_name! Every child has challenging behaviour sometimes. Would you like some tips on how to address these behaviours?",
-    "text": "Hai @fields.user_name! Setiap anak mempunyai tingkah laku yang mencabar kadang-kadang. Adakah anda inginkan beberapa panduan tentang cara untuk menangani tingkah laku ini?",
+    "text": "Hai @fields.user_name! Setiap anak kadang-kadang mempunyai tingkah laku yang mencabar.Adakah anda inginkan beberapa panduan tentang cara untuk menangani tingkah laku ini?",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
     "SourceText": "Hi! Every child has challenging behaviour sometimes. Would you like some tips on how to address these behaviours?",
-    "text": "Hai! Setiap anak mempunyai tingkah laku yang mencabar kadang-kadang. Adakah anda inginkan beberapa panduan tentang cara untuk menangani tingkah laku ini?",
+    "text": "Hai! Setiap anak kadang-kadang mempunyai tingkah laku yang mencabar.Adakah anda inginkan beberapa panduan tentang cara untuk menangani tingkah laku ini?",
     "type": "text"
   },
   {
@@ -22027,7 +22027,7 @@
   },
   {
     "SourceText": "Parent: “Thank you for giving me the phone back, Carter. Now please do your school work. After that we can take a walk or play a game together.”",
-    "text": "Ibu/bapa: “Terima kasih kerana pulangkan telefon kepada saya, Carter. Sekarang tolong buat kerja sekolah anda. Selepas itu kita boleh berjalan-jalan atau bermain permainan bersama-sama.”",
+    "text": "Ibu/bapa: “Terima kasih kerana pulangkan telefon kepada ibu/bapa, Carter. Sekarang tolong buat kerja sekolah anda. Selepas itu kita boleh berjalan-jalan atau bermain permainan bersama-sama.”",
     "type": "text"
   },
   {
@@ -22137,7 +22137,7 @@
   },
   {
     "SourceText": "Parent (looks back to teen):“I understand it is hard to be separate from your friends. Especially since I am sure they are missing you, too. Let’s think of some ways that you could reach out to them.”",
-    "text": "Ibu/bapa (menoleh ke arah anak remaja): “ Ibu/bapa faham, tentu sukar apabila terpisah dari kawan-kawan.  Saya pasti mereka juga merindui kamu.” Mari kita fikirkan beberapa cara bagaimana kamu boleh menghubungi mereka.”",
+    "text": "Ibu/bapa (menoleh ke arah anak remaja): “ Ibu/bapa faham, tentu sukar apabila terpisah dari kawan-kawan. Ibu/bapa pasti mereka juga merindui kamu.” Mari kita fikirkan beberapa cara bagaimana kamu boleh menghubungi mereka.”",
     "type": "text"
   },
   {
