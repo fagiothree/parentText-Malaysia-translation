@@ -4703,7 +4703,7 @@
     "type": "text"
   },
   {
-    "SourceText": "2. Tech fixes to protect your children online:",
+    "SourceText": "2. Tech fixes to protect your children online",
     "text": "2. Pembaikan teknologi untuk melindungi anak anda di dalam talian",
     "type": "text"
   },
@@ -5453,7 +5453,7 @@
     "type": "text"
   },
   {
-    "SourceText": "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on your baby every 5-10 minutes.",
+    "SourceText": "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes.",
     "text": "Sekiranya anda marah kerana bayi anda tidak berhenti menangis, ok jika membiarkan mereka di tempat yang selamat, seperti buaian, dan meninggalkan mereka sebentar. Berada dekat dengan bayi di mana anda boleh mengawasinya. Periksa bayi anda setiap 5-10 minit.",
     "type": "text"
   },
@@ -10158,8 +10158,8 @@
     "type": "text"
   },
   {
-    "SourceText": "2. Do you have weapons or things that can be used to hurt others? Lock them up, hide them or take them out of the home.",
-    "text": "2. Adakah anda mempunyai senjata atau sesuatu yang boleh digunakan untuk mencederakan orang lain? Simpan di tempat yang berkunci, sembunyikan atau keluarkan daripada rumah.",
+    "SourceText": "1. Do you have weapons or things that can be used to hurt others? Lock them up, hide them or take them out of the home.",
+    "text": "1. Adakah anda mempunyai senjata atau sesuatu yang boleh digunakan untuk mencederakan orang lain? Simpan di tempat yang berkunci, sembunyikan atau keluarkan daripada rumah.",
     "type": "text"
   },
   {
@@ -17000,7 +17000,7 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe place and walk away for a bit. Check on @fields.child_nickname every 5-10 minutes. ",
+    "SourceText": "If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe place and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes. ",
     "text": "Jika anda berasa marah kerana @fields.child_nickname tidak berhenti menangis, tidak mengapa jika anda meninggalkannya secara terlentang di tempat yang selamat dan beredar buat seketika. Periksa @fields.child_nickname setiap 5-10 minit. ",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
@@ -17257,25 +17257,25 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Well done @fields.user_name! You have added another skill to your Parenting Toolkit. Next time your child or teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!",
-    "text": "Syabas @fields.user_name! Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda. Kelak jika anak kecil atau anak remaja anda menghadapi sebarang dugaan, cuba bawa bertenang dan ikhtiarkan penyelesaiannya bersama. Membantu anak remaja anda belajar cara-cara menyelesaikan masalah adalah anugerah kehidupan yang akan di dukung sepanjang hayat mereka. Indahnya Kurniaan!",
+    "SourceText": "Well done @fields.user_name! You have added another skill to your Parenting Toolkit. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!",
+    "text": "Syabas @fields.user_name! Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda. Kelak jika anak remaja anda menghadapi sebarang dugaan, cuba bawa bertenang dan ikhtiarkan penyelesaiannya bersama. Membantu anak remaja anda belajar cara-cara menyelesaikan masalah adalah anugerah kehidupan yang akan di dukung sepanjang hayat mereka. Indahnya Kurniaan!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Well done! You have added another skill to your Parenting Toolkit. Next time your child or teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!",
-    "text": "Syabas! Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda. Kelak jika anak kecil atau anak remaja anda menghadapi sebarang dugaan, cuba bawa bertenang dan ikhtiarkan penyelesaiannya bersama. Membantu anak remaja anda belajar cara-cara menyelesaikan masalah adalah anugerah kehidupan yang akan di dukung sepanjang hayat mereka. Indahnya Kurniaan!",
+    "SourceText": "Well done! You have added another skill to your Parenting Toolkit. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!",
+    "text": "Syabas! Anda telah menambahkan satu lagi kemahiran dalam Kit Keibubapaan anda. Kelak jika anak remaja anda menghadapi sebarang dugaan, cuba bawa bertenang dan ikhtiarkan penyelesaiannya bersama. Membantu anak remaja anda belajar cara-cara menyelesaikan masalah adalah anugerah kehidupan yang akan di dukung sepanjang hayat mereka. Indahnya Kurniaan!",
     "type": "text"
   },
   {
-    "SourceText": "Well done @fields.user_name! You have added another layer to your House of Support. Next time your child or teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!",
-    "text": "Syabas @fields.user_name! Anda telah menambahkan satu lapisan lagi pada Rumah Sokongan anda. Kelak jika anak kecil atau anak remaja anda menghadapi sebarang dugaan, cuba bawa bertenang dan ikhtiarkan penyelesaiannya bersama. Membantu anak remaja anda belajar cara-cara menyelesaikan masalah adalah anugerah kehidupan yang akan di dukung sepanjang hayat mereka. Indahnya Kurniaan!",
+    "SourceText": "Well done @fields.user_name! You have added another layer to your House of Support. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!",
+    "text": "Syabas @fields.user_name! Anda telah menambahkan satu lapisan lagi pada Rumah Sokongan anda. Kelak jika anak remaja anda menghadapi sebarang dugaan, cuba bawa bertenang dan ikhtiarkan penyelesaiannya bersama. Membantu anak remaja anda belajar cara-cara menyelesaikan masalah adalah anugerah kehidupan yang akan di dukung sepanjang hayat mereka. Indahnya Kurniaan!",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Well done! You have added another layer to your House of Support. Next time your child or teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!",
-    "text": "Syabas! Anda telah menambahkan satu lapisan lagi pada Rumah Sokongan anda. Kelak jika anak kecil atau anak remaja anda menghadapi sebarang dugaan, cuba bawa bertenang dan ikhtiarkan penyelesaiannya bersama. Membantu anak remaja anda belajar cara-cara menyelesaikan masalah adalah anugerah kehidupan yang akan di dukung sepanjang hayat mereka. Indahnya Kurniaan!",
+    "SourceText": "Well done! You have added another layer to your House of Support. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!",
+    "text": "Syabas! Anda telah menambahkan satu lapisan lagi pada Rumah Sokongan anda. Kelak jika anak remaja anda menghadapi sebarang dugaan, cuba bawa bertenang dan ikhtiarkan penyelesaiannya bersama. Membantu anak remaja anda belajar cara-cara menyelesaikan masalah adalah anugerah kehidupan yang akan di dukung sepanjang hayat mereka. Indahnya Kurniaan!",
     "type": "text"
   },
   {
@@ -17410,6 +17410,16 @@
   {
     "SourceText": "I am sorry it did not go well. How did your child respond?",
     "text": "Maafkan saya, ia tidak berjalan lancar. Bagaimanakah respon anak anda?",
+    "type": "text"
+  },
+  {
+    "SourceText": "I am sorry it did not go well.",
+    "text": "Maafkan saya, ia tidak berjalan lancar.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We are sorry it did not go well.",
+    "text": "Maafkan kami, ia tidak berjalan lancar.",
     "type": "text"
   },
   {
@@ -20756,20 +20766,8 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on @fields.child_nickname every 5-10 minutes.",
-    "text": "Maaf sekiranya anda mendapati hal ini mencabar. Sekiranya anda marah kerana @fields.child_nickname tidak berhenti menangis, tidak mengapa jika membiarkan mereka di tempat yang selamat, seperti dalam buaian, dan meninggalkan mereka sebentar. Periksa @fields.child_nickname setiap 5-10 minit.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
-  },
-  {
-    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on your baby every 5-10 minutes.",
-    "text": "Maaf sekiranya anda mendapati hal ini mencabar. Sekiranya anda marah kerana @fields.child_nickname tidak berhenti menangis, tidak mengapa jika membiarkan mereka di tempat yang selamat, seperti dalam buaian, dan meninggalkan mereka sebentar. Periksa bayi anda setiap 5-10 minit.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
-  },
-  {
-    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes.",
-    "text": "Maaf sekiranya anda mendapati hal ini mencabar. Sekiranya anda marah kerana bayi anda tidak berhenti menangis, tidak mengapa jika membiarkan mereka di tempat yang selamat, seperti dalam buaian, dan meninggalkan mereka sebentar. Berada dekat dengan bayi di mana anda boleh mengawasinya. Periksa @fields.child_nickname setiap 5 -10 minit.",
+    "SourceText": "Sorry to hear that you are finding this challenging. If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes.",
+    "text": "Maaf sekiranya anda mendapati hal ini mencabar. Sekiranya anda marah kerana @fields.child_nickname tidak berhenti menangis, tidak mengapa jika membiarkan mereka di tempat yang selamat, seperti dalam buaian, dan meninggalkan mereka sebentar. Berada dekat dengan bayi di mana anda boleh mengawasinya. Periksa @fields.child_nickname setiap 5-10 minit.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -20780,20 +20778,8 @@
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
   {
-    "SourceText": "If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on @fields.child_nickname every 5-10 minutes.",
-    "text": "Sekiranya anda marah kerana @fields.child_nickname tidak berhenti menangis, tidak mengapa jika membiarkan mereka di tempat yang selamat, seperti dalam buaian, dan meninggalkan mereka sebentar. Periksa @fields.child_nickname setiap 5-10 minit.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
-  },
-  {
-    "SourceText": "If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on your baby every 5-10 minutes.",
-    "text": "Sekiranya anda marah kerana @fields.child_nickname tidak berhenti menangis, tidak mengapa jika membiarkan mereka di tempat yang selamat, seperti dalam buaian, dan meninggalkan mereka sebentar. Periksa bayi anda setiap 5-10 minit.",
-    "type": "text",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
-  },
-  {
-    "SourceText": "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on @fields.child_nickname every 5-10 minutes.",
-    "text": "Sekiranya anda marah kerana bayi anda tidak berhenti menangis, tidak mengapa jika membiarkan mereka di tempat yang selamat, seperti dalam buaian, dan meninggalkan mereka sebentar. Periksa @fields.child_nickname setiap 5 -10 minit.",
+    "SourceText": "If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes.",
+    "text": "Sekiranya anda marah kerana @fields.child_nickname tidak berhenti menangis, tidak mengapa jika membiarkan mereka di tempat yang selamat, seperti dalam buaian, dan meninggalkan mereka sebentar. Berada dekat dengan bayi di mana anda boleh mengawasinya. Periksa @fields.child_nickname setiap 5-10 minit.",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
   },
@@ -24317,6 +24303,58 @@
     {
       "SourceText": "many",
       "text": "banyak",
+      "type": "arguments",
+      "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    },
+    {
+      "SourceText": "1. English",
+      "text": "1. English",
+      "type": "text"
+    },
+    {
+      "SourceText": "Hai! Terima kasih kerana mendaftar untuk menerima tip ParentText. Sila beritahu kami bahasa pilihan anda:",
+      "text": "Hai! Terima kasih kerana mendaftar untuk menerima tip ParentText. Sila beritahu kami bahasa pilihan anda:",
+      "type": "text"
+    },
+    {
+      "SourceText": "1. Bahasa Melayu",
+      "text": "1. Bahasa Melayu",
+      "type": "text"
+    },
+    {
+      "SourceText": "2. Bahasa Inggeris",
+      "text": "2. Bahasa Inggeris",
+      "type": "text"
+    },
+     {
+      "SourceText": "Hi! Thank you for signing up to receive ParentText tips. Which language you would like to receive the messages in?",
+      "text": "Hi! Thank you for signing up to receive ParentText tips. Which language you would like to receive the messages in?",
+      "type": "text"
+    },
+    {
+      "SourceText": "1. Malay",
+      "text": "1. Malay",
+      "type": "text"
+    },
+    {
+      "SourceText": "2. English",
+      "text": "2. English",
+      "type": "text"
+    },
+    {
+      "SourceText": "Maaf, saya tidak faham maksud anda.",
+      "text": "Maaf, saya tidak faham maksud anda.",
+      "type": "text"
+    },
+    {
+      "SourceText": "1 melayu melay malay",
+      "text": "1 melayu melay malay",
+      "type": "arguments",
+      "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    },
+    {
+      "SourceText": "2 inggeris english inggeris eng ing",
+      "text": "2 inggeris english inggeris eng ing",
       "type": "arguments",
       "note": "This is an argument and it may be used to identify a corresponding quick reply"
     }
