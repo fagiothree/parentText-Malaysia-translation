@@ -24357,5 +24357,10 @@
       "text": "2 inggeris english inggeris eng ing",
       "type": "arguments",
       "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    },
+    {
+      "SourceText": "It is ok if it does not go well this time around. Do not give up.",
+      "text": "Tidak mengapa jika ia tidak berjalan lancar pada masa ini. Jangan putus asa.",
+      "type": "text"
     }
   ]
