@@ -6927,7 +6927,7 @@
   },
   {
     "SourceText": "You have added @results.n_skills_week skills to your Parenting Toolkit:",
-    "text": "Anda telah menambahkan @hasil.n_kemahiran_kemahiran mingguan ke dalam Kit Keibubapaan anda:",
+    "text": "Anda telah menambahkan @results.n_skills_week mingguan ke dalam Kit Keibubapaan anda:",
     "type": "text",
     "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
   },
@@ -6940,6 +6940,12 @@
     "SourceText": "You also have made progress on the following skills: ",
     "text": "Anda juga telah melakukan kemajuan dalam kemahiran berikut: ",
     "type": "text"
+  },
+  {
+    "SourceText": "You also have made progress on @results.n_incompletes_week skills.",
+    "text": "YAnda juga telah melakukan kemajuan dalam @results.n_incompletes_week kemahiran.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers"
   },
   {
     "SourceText": "Type \"Help\" if you ever want to go back and complete them.",
@@ -18530,7 +18536,7 @@
     "type": "text"
   },
   {
-    "SourceText": "That's okay! You can always type \"Help\" if you want to learn more about how to how to keep your child safe in the community.",
+    "SourceText": "That's okay! You can always type \"Help\" if you want to learn more about how to keep your child safe in the community.",
     "text": "Tidak mengapa! Jika sekiranya anda ingin mendalami cara-cara melindungi anak anda di dalam komuniti, sila taip “Tolong” pada bila-bila masa.",
     "type": "text"
   },
@@ -24362,5 +24368,17 @@
       "SourceText": "It is ok if it does not go well this time around. Do not give up.",
       "text": "Tidak mengapa jika ia tidak berjalan lancar pada masa ini. Jangan putus asa.",
       "type": "text"
+    },
+    {
+      "SourceText": "National Family & Population Development Board (NFPDB)",
+      "text": "Lembaga Penduduk & Pembangunan Keluarga Negara (LPPKN)",
+      "type": "quick_replies",
+      "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    },
+    {
+      "SourceText": "nfpdb",
+      "text": "lppkn",
+      "type": "arguments",
+      "note": "This is an argument and it may be used to identify a corresponding quick reply"
     }
   ]
